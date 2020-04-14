@@ -1,0 +1,330 @@
+4/23/2010 11:15:53 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'speedboost '
+4/23/2010 11:17:54 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add hol'
+4/23/2010 11:18:00 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2226, 1191, 0) in Felucca: "HolyAvenger"
+4/23/2010 11:18:00 AM: 192.168.1.78: Serials: 0x400003DC; 
+4/23/2010 11:18:25 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'delete '
+4/23/2010 11:18:26 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') deleting 0x400003DC (HolyAvenger)
+4/23/2010 11:18:33 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add heart'
+4/23/2010 11:18:36 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2225, 1191, 0) in Felucca: "HeartOfTheLion"
+4/23/2010 11:18:36 AM: 192.168.1.78: Serials: 0x400003DD; 
+4/23/2010 11:18:55 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add brac'
+4/23/2010 11:19:00 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2226, 1191, 0) in Felucca: "BraceletOfBinding"
+4/23/2010 11:19:00 AM: 192.168.1.78: Serials: 0x400003E2; 
+4/23/2010 11:19:06 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add brac'
+4/23/2010 11:19:10 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2225, 1191, 0) in Felucca: "GrizzleVambraces"
+4/23/2010 11:19:10 AM: 192.168.1.78: Serials: 0x400003E4; 
+4/23/2010 11:19:20 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2225, 1190, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:19:20 AM: 192.168.1.78: Serials: 0x400003E6; 
+4/23/2010 11:19:23 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2225, 1190, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:19:23 AM: 192.168.1.78: Serials: 0x400003E8; 
+4/23/2010 11:19:29 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2225, 1190, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:19:29 AM: 192.168.1.78: Serials: 0x400003E9; 
+4/23/2010 11:19:36 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2225, 1190, 1) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:19:36 AM: 192.168.1.78: Serials: 0x400003EC; 
+4/23/2010 11:19:40 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2225, 1190, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:19:40 AM: 192.168.1.78: Serials: 0x400003EE; 
+4/23/2010 11:19:42 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2225, 1190, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:19:42 AM: 192.168.1.78: Serials: 0x400003EF; 
+4/23/2010 11:19:44 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2225, 1190, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:19:44 AM: 192.168.1.78: Serials: 0x400003F0; 
+4/23/2010 11:19:48 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2226, 1191, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:19:48 AM: 192.168.1.78: Serials: 0x400003F6; 
+4/23/2010 11:19:50 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2226, 1191, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:19:50 AM: 192.168.1.78: Serials: 0x400003F7; 
+4/23/2010 11:19:51 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2226, 1189, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:19:51 AM: 192.168.1.78: Serials: 0x400003FA; 
+4/23/2010 11:19:51 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2226, 1190, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:19:51 AM: 192.168.1.78: Serials: 0x40000402; 
+4/23/2010 11:19:51 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2226, 1190, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:19:51 AM: 192.168.1.78: Serials: 0x40000404; 
+4/23/2010 11:19:51 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2226, 1191, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:19:51 AM: 192.168.1.78: Serials: 0x40000408; 
+4/23/2010 11:19:54 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2225, 1190, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:19:54 AM: 192.168.1.78: Serials: 0x4000040A; 
+4/23/2010 11:19:55 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2225, 1189, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:19:55 AM: 192.168.1.78: Serials: 0x4000040C; 
+4/23/2010 11:19:57 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2225, 1189, 1) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:19:57 AM: 192.168.1.78: Serials: 0x4000040E; 
+4/23/2010 11:19:59 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2225, 1189, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:19:59 AM: 192.168.1.78: Serials: 0x40000410; 
+4/23/2010 11:19:59 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2226, 1189, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:19:59 AM: 192.168.1.78: Serials: 0x40000411; 
+4/23/2010 11:20:00 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2226, 1190, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:20:00 AM: 192.168.1.78: Serials: 0x40000414; 
+4/23/2010 11:20:00 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2226, 1190, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:20:00 AM: 192.168.1.78: Serials: 0x40000416; 
+4/23/2010 11:20:01 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2226, 1190, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:20:01 AM: 192.168.1.78: Serials: 0x40000418; 
+4/23/2010 11:20:04 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2225, 1190, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:20:04 AM: 192.168.1.78: Serials: 0x40000419; 
+4/23/2010 11:20:09 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2225, 1190, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:20:09 AM: 192.168.1.78: Serials: 0x4000041C; 
+4/23/2010 11:20:10 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2224, 1191, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:20:10 AM: 192.168.1.78: Serials: 0x4000041E; 
+4/23/2010 11:20:14 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2224, 1190, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:20:14 AM: 192.168.1.78: Serials: 0x40000420; 
+4/23/2010 11:20:17 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2224, 1189, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:20:17 AM: 192.168.1.78: Serials: 0x40000422; 
+4/23/2010 11:20:19 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2224, 1190, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:20:19 AM: 192.168.1.78: Serials: 0x40000424; 
+4/23/2010 11:20:21 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2224, 1190, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:20:21 AM: 192.168.1.78: Serials: 0x4000042E; 
+4/23/2010 11:20:21 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2224, 1190, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:20:21 AM: 192.168.1.78: Serials: 0x40000434; 
+4/23/2010 11:20:22 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2224, 1191, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:20:22 AM: 192.168.1.78: Serials: 0x40000435; 
+4/23/2010 11:20:22 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2224, 1190, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:20:22 AM: 192.168.1.78: Serials: 0x40000438; 
+4/23/2010 11:20:22 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2224, 1189, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:20:22 AM: 192.168.1.78: Serials: 0x40000440; 
+4/23/2010 11:20:51 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add br'
+4/23/2010 11:20:57 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'wipe '
+4/23/2010 11:20:59 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') wiping from (2223, 1189, 0) to (2228, 1192, 0) in Felucca (Items, Mobiles)
+4/23/2010 11:21:03 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'wipe '
+4/23/2010 11:21:04 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') wiping from (2225, 1183, 0) to (2228, 1185, 0) in Felucca (Items, Mobiles)
+4/23/2010 11:21:22 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add brac'
+4/23/2010 11:21:25 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2262, 1201, 0) in Felucca: "BrilliantAmberBracelet"
+4/23/2010 11:21:25 AM: 192.168.1.78: Serials: 0x40000446; 
+4/23/2010 11:21:27 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2262, 1201, 0) in Felucca: "BrilliantAmberBracelet"
+4/23/2010 11:21:27 AM: 192.168.1.78: Serials: 0x40000448; 
+4/23/2010 11:21:28 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2261, 1201, 0) in Felucca: "BrilliantAmberBracelet"
+4/23/2010 11:21:28 AM: 192.168.1.78: Serials: 0x40000449; 
+4/23/2010 11:21:29 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2261, 1201, 0) in Felucca: "BrilliantAmberBracelet"
+4/23/2010 11:21:29 AM: 192.168.1.78: Serials: 0x4000044C; 
+4/23/2010 11:21:30 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2260, 1200, 0) in Felucca: "BrilliantAmberBracelet"
+4/23/2010 11:21:30 AM: 192.168.1.78: Serials: 0x4000044D; 
+4/23/2010 11:21:31 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2260, 1199, 0) in Felucca: "BrilliantAmberBracelet"
+4/23/2010 11:21:31 AM: 192.168.1.78: Serials: 0x4000044E; 
+4/23/2010 11:21:31 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2260, 1197, 0) in Felucca: "BrilliantAmberBracelet"
+4/23/2010 11:21:31 AM: 192.168.1.78: Serials: 0x4000045C; 
+4/23/2010 11:21:31 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2261, 1196, 0) in Felucca: "BrilliantAmberBracelet"
+4/23/2010 11:21:31 AM: 192.168.1.78: Serials: 0x40000462; 
+4/23/2010 11:21:31 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2262, 1196, 0) in Felucca: "BrilliantAmberBracelet"
+4/23/2010 11:21:31 AM: 192.168.1.78: Serials: 0x4000046D; 
+4/23/2010 11:21:32 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2264, 1198, 0) in Felucca: "BrilliantAmberBracelet"
+4/23/2010 11:21:32 AM: 192.168.1.78: Serials: 0x40000470; 
+4/23/2010 11:21:32 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2265, 1199, 0) in Felucca: "BrilliantAmberBracelet"
+4/23/2010 11:21:32 AM: 192.168.1.78: Serials: 0x40000485; 
+4/23/2010 11:21:32 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2265, 1200, 0) in Felucca: "BrilliantAmberBracelet"
+4/23/2010 11:21:32 AM: 192.168.1.78: Serials: 0x4000048B; 
+4/23/2010 11:21:32 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2265, 1200, 0) in Felucca: "BrilliantAmberBracelet"
+4/23/2010 11:21:32 AM: 192.168.1.78: Serials: 0x4000048C; 
+4/23/2010 11:21:32 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2266, 1197, 0) in Felucca: "BrilliantAmberBracelet"
+4/23/2010 11:21:32 AM: 192.168.1.78: Serials: 0x40000492; 
+4/23/2010 11:21:32 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2265, 1197, 0) in Felucca: "BrilliantAmberBracelet"
+4/23/2010 11:21:32 AM: 192.168.1.78: Serials: 0x40000493; 
+4/23/2010 11:21:33 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2264, 1197, 0) in Felucca: "BrilliantAmberBracelet"
+4/23/2010 11:21:33 AM: 192.168.1.78: Serials: 0x4000049C; 
+4/23/2010 11:21:33 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2263, 1197, 0) in Felucca: "BrilliantAmberBracelet"
+4/23/2010 11:21:33 AM: 192.168.1.78: Serials: 0x4000049E; 
+4/23/2010 11:21:33 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2264, 1196, 0) in Felucca: "BrilliantAmberBracelet"
+4/23/2010 11:21:33 AM: 192.168.1.78: Serials: 0x400004A2; 
+4/23/2010 11:21:55 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'wipe '
+4/23/2010 11:21:56 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') wiping from (2258, 1195, 0) to (2266, 1202, 0) in Felucca (Items, Mobiles)
+4/23/2010 11:22:01 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add brac'
+4/23/2010 11:22:05 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2260, 1202, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:05 AM: 192.168.1.78: Serials: 0x400004A4; 
+4/23/2010 11:22:06 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2263, 1202, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:06 AM: 192.168.1.78: Serials: 0x400004AD; 
+4/23/2010 11:22:06 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2265, 1202, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:06 AM: 192.168.1.78: Serials: 0x400004B1; 
+4/23/2010 11:22:06 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2266, 1202, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:06 AM: 192.168.1.78: Serials: 0x400004B3; 
+4/23/2010 11:22:07 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2267, 1201, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:07 AM: 192.168.1.78: Serials: 0x400004B4; 
+4/23/2010 11:22:07 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2266, 1199, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:07 AM: 192.168.1.78: Serials: 0x400004B5; 
+4/23/2010 11:22:07 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2266, 1197, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:07 AM: 192.168.1.78: Serials: 0x400004B8; 
+4/23/2010 11:22:08 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2265, 1197, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:08 AM: 192.168.1.78: Serials: 0x400004B9; 
+4/23/2010 11:22:08 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2264, 1199, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:08 AM: 192.168.1.78: Serials: 0x400004BC; 
+4/23/2010 11:22:08 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2265, 1200, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:08 AM: 192.168.1.78: Serials: 0x400004BE; 
+4/23/2010 11:22:08 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2266, 1201, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:08 AM: 192.168.1.78: Serials: 0x400004C2; 
+4/23/2010 11:22:09 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2261, 1201, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:09 AM: 192.168.1.78: Serials: 0x400004CA; 
+4/23/2010 11:22:10 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2264, 1201, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:10 AM: 192.168.1.78: Serials: 0x400004CB; 
+4/23/2010 11:22:10 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2263, 1198, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:10 AM: 192.168.1.78: Serials: 0x400004CF; 
+4/23/2010 11:22:10 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2263, 1199, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:10 AM: 192.168.1.78: Serials: 0x400004D5; 
+4/23/2010 11:22:11 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2262, 1202, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:11 AM: 192.168.1.78: Serials: 0x400004D7; 
+4/23/2010 11:22:11 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2261, 1204, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:11 AM: 192.168.1.78: Serials: 0x400004D8; 
+4/23/2010 11:22:12 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2259, 1200, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:12 AM: 192.168.1.78: Serials: 0x400004DD; 
+4/23/2010 11:22:12 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2259, 1198, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:12 AM: 192.168.1.78: Serials: 0x400004DF; 
+4/23/2010 11:22:13 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2261, 1197, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:13 AM: 192.168.1.78: Serials: 0x400004E1; 
+4/23/2010 11:22:13 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2262, 1197, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:13 AM: 192.168.1.78: Serials: 0x400004E3; 
+4/23/2010 11:22:13 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2264, 1197, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:13 AM: 192.168.1.78: Serials: 0x400004E6; 
+4/23/2010 11:22:14 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2260, 1200, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:14 AM: 192.168.1.78: Serials: 0x400004E9; 
+4/23/2010 11:22:14 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2260, 1196, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:14 AM: 192.168.1.78: Serials: 0x400004EB; 
+4/23/2010 11:22:15 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2264, 1195, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:15 AM: 192.168.1.78: Serials: 0x400004EE; 
+4/23/2010 11:22:15 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2264, 1196, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:15 AM: 192.168.1.78: Serials: 0x400004EF; 
+4/23/2010 11:22:15 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2267, 1196, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:15 AM: 192.168.1.78: Serials: 0x400004F0; 
+4/23/2010 11:22:15 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2264, 1196, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:15 AM: 192.168.1.78: Serials: 0x400004F1; 
+4/23/2010 11:22:16 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2262, 1196, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:16 AM: 192.168.1.78: Serials: 0x400004F2; 
+4/23/2010 11:22:16 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2262, 1195, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:16 AM: 192.168.1.78: Serials: 0x400004F5; 
+4/23/2010 11:23:31 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'wipe '
+4/23/2010 11:23:33 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') wiping from (2256, 1195, 0) to (2266, 1205, 0) in Felucca (Items, Mobiles)
+4/23/2010 11:23:44 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'props '
+4/23/2010 11:23:56 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'HitPoints' of 0x400003E2 (BraceletOfBinding) to '5'
+4/23/2010 11:25:33 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add orn'
+4/23/2010 11:25:38 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2261, 1202, 0) in Felucca: "BlackthornsKryss"
+4/23/2010 11:25:38 AM: 192.168.1.78: Serials: 0x400004F9; 
+4/23/2010 11:25:45 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add orn'
+4/23/2010 11:25:48 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2262, 1201, 0) in Felucca: "DreadHorn"
+4/23/2010 11:25:48 AM: 192.168.1.78: Serials: 0x3; 
+4/23/2010 11:27:50 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'M Tele'
+4/23/2010 11:28:16 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'kill '
+4/23/2010 11:28:17 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') killing 0x3 "a Dread Horn" (no account)
+4/23/2010 11:29:39 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add '
+4/23/2010 11:29:44 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add orn'
+4/23/2010 11:29:54 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2252, 1207, 0) in Felucca: "OrnamentOfTheMagician"
+4/23/2010 11:29:54 AM: 192.168.1.78: Serials: 0x40000740; 
+4/23/2010 11:29:58 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add orn'
+4/23/2010 11:30:10 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2252, 1207, 0) in Felucca: "Unicorn"
+4/23/2010 11:30:10 AM: 192.168.1.78: Serials: 0x6; 
+4/23/2010 11:30:22 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'delete '
+4/23/2010 11:30:22 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') deleting 0x6 "a unicorn" (no account)
+4/23/2010 11:30:24 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'delete '
+4/23/2010 11:30:25 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') deleting 0x4000072C (Corpse)
+4/23/2010 11:30:27 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'delete '
+4/23/2010 11:30:27 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') deleting 0x3 "a Dread Horn" (no account)
+4/23/2010 11:30:30 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add '
+4/23/2010 11:30:35 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add orn'
+4/23/2010 11:30:52 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add greth'
+4/23/2010 11:31:03 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2254, 1205, 0) in Felucca: "GreaterDragon"
+4/23/2010 11:31:03 AM: 192.168.1.78: Serials: 0x7; 
+4/23/2010 11:31:10 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'delete '
+4/23/2010 11:31:11 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') deleting 0x7 "a greater dragon" (no account)
+4/23/2010 11:31:21 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add an evil zorander'
+4/23/2010 11:31:36 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add '
+4/23/2010 11:31:43 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add elder'
+4/23/2010 11:32:01 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add night'
+4/23/2010 11:32:06 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2255, 1204, 0) in Felucca: "Nightmare"
+4/23/2010 11:32:06 AM: 192.168.1.78: Serials: 0x8; 
+4/23/2010 11:32:10 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add night'
+4/23/2010 11:32:13 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2257, 1207, 0) in Felucca: "Nightmare"
+4/23/2010 11:32:13 AM: 192.168.1.78: Serials: 0x9; 
+4/23/2010 11:32:13 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2255, 1207, 0) in Felucca: "Nightmare"
+4/23/2010 11:32:13 AM: 192.168.1.78: Serials: 0xA; 
+4/23/2010 11:32:13 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2257, 1207, 0) in Felucca: "Nightmare"
+4/23/2010 11:32:13 AM: 192.168.1.78: Serials: 0xC; 
+4/23/2010 11:32:14 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2258, 1206, 0) in Felucca: "Nightmare"
+4/23/2010 11:32:14 AM: 192.168.1.78: Serials: 0xD; 
+4/23/2010 11:32:14 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2259, 1206, 0) in Felucca: "Nightmare"
+4/23/2010 11:32:14 AM: 192.168.1.78: Serials: 0xE; 
+4/23/2010 11:32:14 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2259, 1206, 0) in Felucca: "Nightmare"
+4/23/2010 11:32:14 AM: 192.168.1.78: Serials: 0xF; 
+4/23/2010 11:32:46 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'wipe '
+4/23/2010 11:32:47 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') wiping from (2252, 1199, 0) to (2264, 1210, 0) in Felucca (Items, Mobiles)
+4/23/2010 11:32:50 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'delete '
+4/23/2010 11:32:51 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') deleting 0xA "a nightmare" (no account)
+4/23/2010 11:36:28 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add black'
+4/23/2010 11:36:43 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add heart'
+4/23/2010 11:37:02 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add heart of black'
+4/23/2010 11:37:05 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add black'
+4/23/2010 11:37:18 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2255, 1200, 0) in Felucca: "RewardBlackDyeTub"
+4/23/2010 11:37:18 AM: 192.168.1.78: Serials: 0x40000833; 
+4/25/2010 11:17:40 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add crimson'
+4/25/2010 11:17:42 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2231, 1207, 0) in Felucca: "CrimsonCincture"
+4/25/2010 11:17:42 PM: 192.168.1.78: Serials: 0x40003027; 
+4/25/2010 11:18:45 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add drean'
+4/25/2010 11:18:55 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add drean'
+4/25/2010 11:19:10 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add kryss'
+4/25/2010 11:19:11 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2231, 1207, 0) in Felucca: "kryss"
+4/25/2010 11:19:11 PM: 192.168.1.78: Serials: 0x40003075; 
+4/25/2010 11:19:34 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add '
+4/25/2010 11:21:13 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'kill '
+4/25/2010 11:21:14 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') killing 0x9 "Markola Pop" ('mark')
+4/25/2010 11:21:15 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'kill '
+4/25/2010 11:21:15 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') killing 0x3 "Hand of God" ('Tureco')
+4/25/2010 11:22:23 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'props '
+4/25/2010 11:22:32 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'DexBonus' of 0x400003DA (RuneBeetleCarapace) to '12'
+4/25/2010 11:22:44 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'FireBonus' of 0x400003DA (RuneBeetleCarapace) to '15'
+4/25/2010 11:23:58 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'SetSelfRepair' of 0x400003DA (RuneBeetleCarapace) to '10'
+4/25/2010 11:24:20 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'props '
+4/25/2010 11:25:38 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'HitPoints' of 0x400003DA (RuneBeetleCarapace) to '255'
+4/25/2010 11:25:48 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'DurabilityBonus' of ... to '0'
+4/25/2010 11:25:51 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'LowerStatReq' of ... to '100'
+4/25/2010 11:25:57 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'SelfRepair' of ... to '5'
+4/25/2010 11:26:11 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'BonusDex' of ... to '12'
+4/25/2010 11:26:17 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'BonusHits' of ... to '20'
+4/25/2010 11:26:24 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'BonusMana' of ... to '25'
+4/25/2010 11:26:29 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'BonusStr' of ... to '20'
+4/25/2010 11:26:36 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'CastSpeed' of ... to '6'
+4/25/2010 11:26:41 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'CastRecovery' of ... to '12'
+4/25/2010 11:26:46 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'DefendChance' of ... to '45'
+4/25/2010 11:26:51 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'EnhancePotions' of ... to '75'
+4/25/2010 11:26:58 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'LowerManaCost' of ... to '60'
+4/25/2010 11:27:03 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'LowerRegCost' of ... to '100'
+4/25/2010 11:27:11 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'ReflectPhysical' of ... to '100'
+4/25/2010 11:27:17 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'WeaponSpeed' of ... to '50'
+4/25/2010 11:27:21 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'WeaponDamage' of ... to '30'
+4/25/2010 11:27:28 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'RegenMana' of ... to '20'
+4/25/2010 11:27:35 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'RegenStam' of ... to '20'
+4/25/2010 11:27:39 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'SpellChanneling' of ... to '1'
+4/25/2010 11:27:46 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'Luck' of ... to '850'
+4/25/2010 11:28:02 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'props '
+4/25/2010 11:28:18 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'FireBonus' of 0x400003DA (RuneBeetleCarapace) to '50'
+4/25/2010 11:28:25 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'PhysicalBonus' of 0x400003DA (RuneBeetleCarapace) to '50'
+4/25/2010 11:28:33 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'PoisonBonus' of 0x400003DA (RuneBeetleCarapace) to '50'
+4/25/2010 11:28:45 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'SetColdBonus' of 0x400003DA (RuneBeetleCarapace) to '50'
+4/25/2010 11:28:51 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'SetEnergyBonus' of 0x400003DA (RuneBeetleCarapace) to '50'
+4/25/2010 11:28:57 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'SetFireBonus' of 0x400003DA (RuneBeetleCarapace) to '50'
+4/25/2010 11:29:19 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'props '
+4/25/2010 11:29:35 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'EnergyBonus' of 0x400003DA (RuneBeetleCarapace) to '50'
+4/25/2010 11:30:02 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'SetColdBonus' of 0x400003DA (RuneBeetleCarapace) to '80'
+4/25/2010 11:30:09 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'SetFireBonus' of 0x400003DA (RuneBeetleCarapace) to '80'
+4/25/2010 11:30:19 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'props '
+4/25/2010 11:30:23 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'props '
+4/25/2010 11:30:38 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'SetColdBonus' of 0x400003DA (RuneBeetleCarapace) to '80'
+4/25/2010 11:30:40 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'SetFireBonus' of 0x400003DA (RuneBeetleCarapace) to '80'
+4/25/2010 11:30:48 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'props '
+4/25/2010 11:30:55 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'ColdBonus' of 0x4000038A (Aegis) to '50'
+4/25/2010 11:31:01 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'props '
+4/25/2010 11:31:08 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'FireBonus' of 0x4000038A (Aegis) to '30'
+4/25/2010 11:31:46 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'props '
+4/25/2010 11:31:52 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'DamageLevel' of 0x40003075 (Kryss) to 'Vanq'
+4/25/2010 11:32:07 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'AttackChance' of ... to '15'
+4/25/2010 11:32:24 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'WeaponSpeed' of ... to '30'
+4/25/2010 11:32:30 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'WeaponDamage' of ... to '50'
+4/25/2010 11:34:05 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'kill '
+4/25/2010 11:34:07 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') killing 0x3 "Hand of God" ('Tureco')
+4/25/2010 11:39:48 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'kill '
+4/25/2010 11:41:11 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'kill '
+4/25/2010 11:41:11 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') killing 0x3 "Hand of God" ('Tureco')
+4/25/2010 11:41:14 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'kill '
+4/25/2010 11:41:14 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') killing 0x9 "Markola Pop" ('mark')
+4/25/2010 11:41:26 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'ressme '
+4/25/2010 11:41:29 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'ressme '
+4/25/2010 11:41:31 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'ressme '
+5/7/2010 8:30:17 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'ressme '
+5/7/2010 8:37:46 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'kill '
+5/7/2010 8:37:48 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'kill '
+5/7/2010 8:37:50 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') killing 0x4 "Tureco" ('Tureco')
+5/7/2010 8:38:19 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'kill '
+5/7/2010 8:38:20 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') killing 0xB "Seu Jorge" ('mark')
+5/7/2010 8:38:35 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'tele '
+5/7/2010 8:38:46 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'tele '
+5/7/2010 8:40:03 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add necro'
+5/7/2010 8:40:07 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (4597, 3575, 75) in Felucca: "NecromancerSpellbook"
+5/7/2010 8:40:07 PM: 192.168.1.78: Serials: 0x40001F95; 

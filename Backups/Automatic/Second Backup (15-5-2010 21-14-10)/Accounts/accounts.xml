@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<accounts count="12">
+	<account>
+		<username>admin</username>
+		<newCryptPassword>87-47-D4-F0-63-CC-DF-45-8A-8C-31-D4-DF-5D-42-57-C6-BC-72-8A</newCryptPassword>
+		<accessLevel>Owner</accessLevel>
+		<created>2010-04-22T17:08:16.83339-03:00</created>
+		<lastLogin>2010-05-15T11:14:19.2919921-03:00</lastLogin>
+		<totalGameTime>P1DT9H57M0.6462491S</totalGameTime>
+		<chars>
+			<char index="0">1</char>
+		</chars>
+		<addressList count="3">
+			<ip>127.0.0.1</ip>
+			<ip>200.163.15.120</ip>
+			<ip>200.181.87.155</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>carlos</username>
+		<newCryptPassword>FC-8A-E8-79-92-67-BC-08-12-F8-6E-F6-1B-94-65-DF-99-0A-20-16</newCryptPassword>
+		<accessLevel>GameMaster</accessLevel>
+		<created>2010-04-23T11:14:05.4496555-03:00</created>
+		<lastLogin>2010-05-07T20:45:17.206014-03:00</lastLogin>
+		<totalGameTime>PT1H7M56.534007S</totalGameTime>
+		<chars>
+			<char index="0">2</char>
+		</chars>
+		<addressList count="1">
+			<ip>192.168.1.78</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>Tureco</username>
+		<newCryptPassword>C1-42-DF-E0-1E-07-B5-AC-DC-29-35-DA-E3-FD-08-BB-9B-2A-07-A1</newCryptPassword>
+		<created>2010-04-22T17:42:59.639535-03:00</created>
+		<lastLogin>2010-05-14T22:49:42.0654296-03:00</lastLogin>
+		<totalGameTime>PT23H7M15.4766641S</totalGameTime>
+		<chars>
+			<char index="0">4</char>
+			<char index="1">3</char>
+		</chars>
+		<addressList count="2">
+			<ip>200.163.15.120</ip>
+			<ip>200.181.87.155</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>mark</username>
+		<newCryptPassword>52-5A-D3-63-16-45-CE-89-9F-A1-A1-62-73-86-6C-C4-E1-20-06-55</newCryptPassword>
+		<created>2010-04-22T19:17:19.9227615-03:00</created>
+		<lastLogin>2010-05-15T11:34:43.3818359-03:00</lastLogin>
+		<totalGameTime>PT15H4M4.1118581S</totalGameTime>
+		<chars>
+			<char index="0">11</char>
+			<char index="1">7</char>
+			<char index="2">9</char>
+			<char index="3">13</char>
+		</chars>
+		<addressList count="2">
+			<ip>127.0.0.1</ip>
+			<ip>200.163.15.120</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>heyjude</username>
+		<newCryptPassword>5A-48-E7-AC-78-6D-AB-4E-2C-72-47-22-2D-B3-5D-51-07-DC-02-7E</newCryptPassword>
+		<created>2010-04-23T10:02:24.042346-03:00</created>
+		<lastLogin>2010-04-23T10:02:24.042346-03:00</lastLogin>
+		<totalGameTime>PT0S</totalGameTime>
+		<chars />
+		<addressList count="2">
+			<ip>127.0.0.1</ip>
+			<ip>200.163.15.120</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>adim</username>
+		<newCryptPassword>6B-AD-90-72-8B-6C-86-2E-32-42-54-28-05-85-30-62-9D-1A-3F-35</newCryptPassword>
+		<created>2010-04-24T18:37:07.0458265-03:00</created>
+		<lastLogin>2010-04-24T18:37:07.0458265-03:00</lastLogin>
+		<totalGameTime>PT0S</totalGameTime>
+		<chars />
+		<addressList count="1">
+			<ip>200.163.15.120</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>juares</username>
+		<newCryptPassword>92-0D-9D-61-FF-47-CA-D9-53-98-4A-89-B1-63-15-C6-50-CE-1A-40</newCryptPassword>
+		<created>2010-04-24T20:32:52.7067445-03:00</created>
+		<lastLogin>2010-04-25T03:28:14.557933-03:00</lastLogin>
+		<totalGameTime>PT3H17M1.8771405S</totalGameTime>
+		<chars>
+			<char index="0">10</char>
+		</chars>
+		<addressList count="1">
+			<ip>189.121.11.9</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>teste1</username>
+		<newCryptPassword>60-C1-18-82-69-65-91-B3-99-D7-67-58-A0-B9-80-79-58-35-4E-FB</newCryptPassword>
+		<created>2010-04-25T02:20:27.542848-03:00</created>
+		<lastLogin>2010-04-25T19:34:20.9593755-03:00</lastLogin>
+		<totalGameTime>PT1H49M38.762526S</totalGameTime>
+		<chars>
+			<char index="0">6</char>
+			<char index="1">19</char>
+		</chars>
+		<addressList count="2">
+			<ip>201.94.163.135</ip>
+			<ip>201.94.163.101</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>teste2</username>
+		<newCryptPassword>FB-E4-A9-9E-5C-B4-E4-AF-41-52-2D-B1-AA-42-82-AA-60-8E-F4-75</newCryptPassword>
+		<created>2010-04-25T02:33:50.4436075-03:00</created>
+		<lastLogin>2010-04-25T18:12:44.7551745-03:00</lastLogin>
+		<totalGameTime>PT3H2M1.4816445S</totalGameTime>
+		<chars>
+			<char index="0">12</char>
+			<char index="1">16</char>
+			<char index="2">18</char>
+		</chars>
+		<addressList count="2">
+			<ip>201.94.163.135</ip>
+			<ip>201.94.163.101</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>juarez</username>
+		<newCryptPassword>77-DD-44-AE-A3-6A-37-DA-D9-08-6C-5A-5B-05-7A-A7-AB-EF-8A-5C</newCryptPassword>
+		<created>2010-04-25T02:43:20.564344-03:00</created>
+		<lastLogin>2010-04-25T02:43:20.564344-03:00</lastLogin>
+		<totalGameTime>PT0S</totalGameTime>
+		<chars />
+		<addressList count="1">
+			<ip>189.121.11.9</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>mark1</username>
+		<newCryptPassword>CE-77-C7-D7-C7-E1-46-6E-30-5A-7D-1B-98-D2-97-13-7D-E9-B5-A3</newCryptPassword>
+		<created>2010-04-25T13:43:01.7096995-03:00</created>
+		<lastLogin>2010-04-25T13:58:22.102939-03:00</lastLogin>
+		<totalGameTime>PT20M52.1259135S</totalGameTime>
+		<chars>
+			<char index="0">8</char>
+			<char index="1">15</char>
+		</chars>
+		<addressList count="1">
+			<ip>127.0.0.1</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>massb</username>
+		<newCryptPassword>C5-BF-94-7F-39-F7-EE-7A-99-58-4A-AD-A1-FE-E9-1D-B7-43-AD-70</newCryptPassword>
+		<created>2010-05-01T10:42:23.752632-03:00</created>
+		<lastLogin>2010-05-01T10:42:23.752632-03:00</lastLogin>
+		<totalGameTime>PT0S</totalGameTime>
+		<chars />
+		<addressList count="1">
+			<ip>127.0.0.1</ip>
+		</addressList>
+	</account>
+</accounts>

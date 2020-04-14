@@ -1,0 +1,59 @@
+##############################
+Log started on 5/3/2010 11:35:03 AM
+
+5/3/2010 12:12:49 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add hol'
+5/3/2010 12:12:53 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (2224, 1207, 0) in Felucca: "HolyAvenger"
+5/3/2010 12:12:53 PM: 127.0.0.1: Serials: 0x400018EA; 
+5/3/2010 12:13:26 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add dragon'
+5/3/2010 12:13:27 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (2223, 1207, 0) in Felucca: "dragon"
+5/3/2010 12:13:28 PM: 127.0.0.1: Serials: 0xD; 
+5/3/2010 12:13:47 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'setallskills 120'
+5/3/2010 12:13:48 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'EverySkill.Base' of 0x1 "Owner Mark [Staff]" ('admin') to '120'
+5/3/2010 12:13:53 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'setallskills 120'
+5/3/2010 12:13:54 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'EverySkill.Base' of 0x1 "Owner Mark [Staff]" ('admin') to '120'
+5/3/2010 12:14:44 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+5/3/2010 12:14:45 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0xD "a dragon" (no account)
+5/3/2010 12:15:00 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add dragon'
+5/3/2010 12:15:01 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4588, 3575, 75) in Felucca: "dragon"
+5/3/2010 12:15:01 PM: 127.0.0.1: Serials: 0x11; 
+5/3/2010 12:15:29 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add bow'
+5/3/2010 12:15:30 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4588, 3577, 75) in Felucca: "bow"
+5/3/2010 12:15:30 PM: 127.0.0.1: Serials: 0x400018F1; 
+5/3/2010 12:15:46 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+5/3/2010 12:15:51 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x11 "a dragon" (no account)
+##############################
+Log started on 5/3/2010 12:40:43 PM
+
+5/3/2010 12:41:11 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add holy'
+5/3/2010 12:41:14 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (2221, 1207, 0) in Felucca: "HolyAvenger"
+5/3/2010 12:41:14 PM: 127.0.0.1: Serials: 0x400018EA; 
+5/3/2010 12:41:26 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'mortal '
+5/3/2010 12:41:27 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'blessed' of 0x1 "Owner Mark [Staff]" ('admin') to 'False'
+5/3/2010 12:41:31 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add dragon'
+5/3/2010 12:41:33 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (2223, 1207, 0) in Felucca: "dragon"
+5/3/2010 12:41:33 PM: 127.0.0.1: Serials: 0xD; 
+5/3/2010 12:43:32 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add jack'
+5/3/2010 12:43:34 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (2226, 1174, 0) in Felucca: "JackalsCollar"
+5/3/2010 12:43:34 PM: 127.0.0.1: Serials: 0x40001946; 
+5/3/2010 12:43:40 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add vile'
+5/3/2010 12:43:42 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (2230, 1172, 0) in Felucca: "RingOfTheVile"
+5/3/2010 12:43:42 PM: 127.0.0.1: Serials: 0x40001947; 
+5/3/2010 12:43:56 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add pug'
+5/3/2010 12:43:58 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (2230, 1172, 0) in Felucca: "GlovesOfThePugilist"
+5/3/2010 12:43:58 PM: 127.0.0.1: Serials: 0x40001952; 
+5/3/2010 12:43:59 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (2229, 1173, 0) in Felucca: "GlovesOfThePugilist"
+5/3/2010 12:43:59 PM: 127.0.0.1: Serials: 0x40001958; 
+5/3/2010 12:44:03 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+5/3/2010 12:44:04 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40001952 (GlovesOfThePugilist)
+5/3/2010 12:44:32 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add dragon'
+5/3/2010 12:44:34 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (2232, 1173, 0) in Felucca: "dragon"
+5/3/2010 12:44:34 PM: 127.0.0.1: Serials: 0x11; 
+5/3/2010 12:45:27 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add dragon'
+5/3/2010 12:45:28 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (2230, 1170, 0) in Felucca: "dragon"
+5/3/2010 12:45:28 PM: 127.0.0.1: Serials: 0x14; 
+5/3/2010 12:45:31 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'set isparagon true'
+5/3/2010 12:45:32 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'isparagon' of 0x14 "a dragon" (no account) to 'True'
+5/3/2010 12:46:02 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'ressme '
+5/3/2010 12:47:31 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'ressme '
+5/3/2010 12:47:49 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+5/3/2010 12:47:50 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x14 "a dragon" (no account)

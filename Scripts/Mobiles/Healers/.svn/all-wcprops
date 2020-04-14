@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/93/trunk/Scripts/Mobiles/Healers
+END
+BaseHealer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/93/trunk/Scripts/Mobiles/Healers/BaseHealer.cs
+END
+EvilWanderingHealer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/93/trunk/Scripts/Mobiles/Healers/EvilWanderingHealer.cs
+END
+WanderingHealer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/93/trunk/Scripts/Mobiles/Healers/WanderingHealer.cs
+END
+EvilHealer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/93/trunk/Scripts/Mobiles/Healers/EvilHealer.cs
+END
+Healer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/93/trunk/Scripts/Mobiles/Healers/Healer.cs
+END
+PricedHealer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/11/trunk/Scripts/Mobiles/Healers/PricedHealer.cs
+END
+FortuneTeller.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/11/trunk/Scripts/Mobiles/Healers/FortuneTeller.cs
+END

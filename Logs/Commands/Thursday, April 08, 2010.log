@@ -1,0 +1,27 @@
+##############################
+Log started on 4/8/2010 8:32:08 AM
+
+4/8/2010 12:02:52 PM: 127.0.0.1: Owner 0x1 "Generic Player" ('admin') used command 'staffrunebook '
+4/8/2010 12:02:59 PM: 127.0.0.1: Owner 0x1 "Generic Player" ('admin') used command 'admin '
+4/8/2010 12:03:03 PM: 127.0.0.1: Owner 0x1 "Generic Player" ('admin') used command 'M Tele'
+4/8/2010 12:03:07 PM: 127.0.0.1: Owner 0x1 "Generic Player" ('admin') used command 'go '
+4/8/2010 12:03:09 PM: 127.0.0.1: Owner 0x1 "Generic Player" ('admin') used command 'props '
+4/8/2010 12:03:12 PM: 127.0.0.1: Owner 0x1 "Generic Player" ('admin') used command 'speedboost '
+4/8/2010 12:03:14 PM: 127.0.0.1: Owner 0x1 "Generic Player" ('admin') used command 'speedboost '
+4/8/2010 12:03:17 PM: 127.0.0.1: Owner 0x1 "Generic Player" ('admin') hiding 0x1 "Generic Player" ('admin')
+4/8/2010 12:03:17 PM: 127.0.0.1: Owner 0x1 "Generic Player" ('admin') used command 'Self Hide'
+4/8/2010 12:03:18 PM: 127.0.0.1: Owner 0x1 "Generic Player" ('admin') unhiding 0x1 "Generic Player" ('admin')
+4/8/2010 12:03:18 PM: 127.0.0.1: Owner 0x1 "Generic Player" ('admin') used command 'Self Unhide'
+4/8/2010 12:03:20 PM: 127.0.0.1: Owner 0x1 "Generic Player" ('admin') used command 'move '
+4/8/2010 12:03:22 PM: 127.0.0.1: Owner 0x1 "Generic Player" ('admin') used command 'M Remove'
+4/8/2010 12:03:29 PM: 127.0.0.1: Owner 0x1 "Generic Player" ('admin') used command 'move '
+4/8/2010 12:03:32 PM: 127.0.0.1: Owner 0x1 "Generic Player" ('admin') used command 'where '
+4/8/2010 12:03:42 PM: 127.0.0.1: Owner 0x1 "Generic Player" ('admin') used command 'go lune'
+4/8/2010 12:03:45 PM: 127.0.0.1: Owner 0x1 "Generic Player" ('admin') used command 'go '
+4/8/2010 12:04:43 PM: 127.0.0.1: Owner 0x1 "Generic Player" ('admin') used command 'go '
+4/8/2010 12:05:06 PM: 127.0.0.1: Owner 0x1 "Generic Player" ('admin') used command 'add '
+4/8/2010 12:05:09 PM: 127.0.0.1: Owner 0x1 "Generic Player" ('admin') used command 'add crimso'
+4/8/2010 12:05:15 PM: 127.0.0.1: Owner 0x1 "Generic Player" ('admin') building at (582, 1644, -2) in Trammel: "CrimsonCincture"
+4/8/2010 12:05:15 PM: 127.0.0.1: Serials: 0x40000020; 
+4/8/2010 12:05:21 PM: 127.0.0.1: Owner 0x1 "Generic Player" ('admin') used command 'delete '
+4/8/2010 12:05:23 PM: 127.0.0.1: Owner 0x1 "Generic Player" ('admin') deleting 0x40000020 (CrimsonCincture)

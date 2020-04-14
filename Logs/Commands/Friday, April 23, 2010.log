@@ -1,0 +1,490 @@
+##############################
+Log started on 4/23/2010 10:00:06 AM
+
+4/23/2010 10:04:08 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'set str'
+4/23/2010 10:04:13 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'set str 20000'
+4/23/2010 10:04:13 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') set property 'str' of 0x1 "Owner Mark" ('admin') to '20000'
+4/23/2010 10:04:23 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'set dex 200000'
+4/23/2010 10:04:25 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') set property 'dex' of 0x1 "Owner Mark" ('admin') to '200000'
+4/23/2010 10:04:34 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'props '
+4/23/2010 10:05:10 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') set property 'Hits' of 0x1 "Owner Mark" ('admin') to '20000'
+4/23/2010 10:05:48 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'add admin'
+4/23/2010 10:05:50 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') building at (2227, 1190, 0) in Felucca: "AdminRobe"
+4/23/2010 10:05:50 AM: 127.0.0.1: Serials: 0x40000101; 
+4/23/2010 10:05:52 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') building at (2227, 1190, 0) in Felucca: "AdminRobe"
+4/23/2010 10:05:52 AM: 127.0.0.1: Serials: 0x40000102; 
+4/23/2010 10:05:59 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'delete '
+4/23/2010 10:06:00 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') deleting 0x40000101 (AdminRobe)
+4/23/2010 10:06:05 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'props '
+4/23/2010 10:06:36 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'add clo'
+4/23/2010 10:06:39 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') building at (2227, 1190, 0) in Felucca: "Cloak"
+4/23/2010 10:06:39 AM: 127.0.0.1: Serials: 0x40000103; 
+4/23/2010 10:06:44 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'props '
+4/23/2010 10:06:54 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') set property 'Crafter' of 0x40000103 (Cloak) to '0x1 "Owner Mark"'
+4/23/2010 10:07:08 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') set property 'Cold' of ... to '70'
+4/23/2010 10:07:15 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') set property 'Energy' of ... to '70'
+4/23/2010 10:07:19 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') set property 'Fire' of ... to '70'
+4/23/2010 10:07:23 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') set property 'Physical' of ... to '70'
+4/23/2010 10:07:27 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') set property 'Poison' of ... to '70'
+##############################
+Log started on 4/23/2010 10:12:26 AM
+
+4/23/2010 10:13:28 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'add esse'
+4/23/2010 10:13:33 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') building at (2225, 1190, 0) in Felucca: "EssenceOfBattle"
+4/23/2010 10:13:33 AM: 127.0.0.1: Serials: 0x4000000C; 
+4/23/2010 10:14:26 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'add storm'
+4/23/2010 10:14:30 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') building at (2225, 1190, 0) in Felucca: "Stormgrip"
+4/23/2010 10:14:30 AM: 127.0.0.1: Serials: 0x4000000D; 
+4/23/2010 10:14:57 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'delete '
+4/23/2010 10:14:59 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') deleting 0x4000000D (Stormgrip)
+4/23/2010 10:15:26 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'add admin'
+4/23/2010 10:15:29 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') building at (2227, 1190, 0) in Felucca: "AdminRobe"
+4/23/2010 10:15:29 AM: 127.0.0.1: Serials: 0x40000079; 
+4/23/2010 10:15:36 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'add cloa'
+4/23/2010 10:15:38 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') building at (2227, 1190, 0) in Felucca: "Cloak"
+4/23/2010 10:15:38 AM: 127.0.0.1: Serials: 0x4000007A; 
+4/23/2010 10:15:43 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'props '
+4/23/2010 10:15:55 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') set property 'Cold' of ... to '70'
+4/23/2010 10:16:00 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') set property 'Energy' of ... to '70'
+4/23/2010 10:16:04 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') set property 'Fire' of ... to '70'
+4/23/2010 10:16:07 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') set property 'Physical' of ... to '70'
+4/23/2010 10:16:12 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') set property 'Poison' of ... to '70'
+4/23/2010 10:23:03 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'save '
+4/23/2010 10:23:03 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'save '
+4/23/2010 10:23:04 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'save '
+##############################
+Log started on 4/23/2010 10:25:44 AM
+
+##############################
+Log started on 4/23/2010 10:31:15 AM
+
+##############################
+Log started on 4/23/2010 10:36:53 AM
+
+##############################
+Log started on 4/23/2010 10:41:40 AM
+
+##############################
+Log started on 4/23/2010 10:45:44 AM
+
+4/23/2010 10:47:06 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'setallskills 0'
+4/23/2010 10:47:07 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') set property 'EverySkill.Base' of 0x1 "Owner Mark" ('admin') to '0'
+##############################
+Log started on 4/23/2010 10:50:17 AM
+
+##############################
+Log started on 4/23/2010 10:54:19 AM
+
+##############################
+Log started on 4/23/2010 10:59:39 AM
+
+4/23/2010 11:06:08 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'add flamin'
+4/23/2010 11:06:12 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') building at (2224, 1190, 0) in Felucca: "FlamingBow"
+4/23/2010 11:06:19 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') building at (2225, 1188, 0) in Felucca: "FlamingBow"
+4/23/2010 11:06:22 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') building at (2224, 1189, 0) in Felucca: "FlamingBow"
+4/23/2010 11:06:24 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') building at (2222, 1189, 0) in Felucca: "FlamingBow"
+4/23/2010 11:06:24 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') building at (2222, 1190, 0) in Felucca: "FlamingBow"
+4/23/2010 11:06:25 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') building at (2223, 1190, 0) in Felucca: "FlamingBow"
+4/23/2010 11:06:25 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') building at (2224, 1190, 0) in Felucca: "FlamingBow"
+4/23/2010 11:06:26 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') building at (2225, 1188, 0) in Felucca: "FlamingBow"
+4/23/2010 11:06:26 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') building at (2225, 1188, 0) in Felucca: "FlamingBow"
+4/23/2010 11:06:31 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') building at (2224, 1190, 0) in Felucca: "FlamingBow"
+4/23/2010 11:06:33 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') building at (2223, 1190, 0) in Felucca: "FlamingBow"
+4/23/2010 11:06:34 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') building at (2225, 1189, 0) in Felucca: "FlamingBow"
+4/23/2010 11:06:34 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') building at (2225, 1188, 0) in Felucca: "FlamingBow"
+4/23/2010 11:06:34 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') building at (2225, 1187, 0) in Felucca: "FlamingBow"
+4/23/2010 11:06:35 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') building at (2222, 1189, 0) in Felucca: "FlamingBow"
+4/23/2010 11:06:40 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') building at (2222, 1190, 0) in Felucca: "flamingsword"
+4/23/2010 11:06:40 AM: 127.0.0.1: Serials: 0x4000000C; 
+4/23/2010 11:06:59 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'props '
+4/23/2010 11:06:59 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'props '
+4/23/2010 11:07:01 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'props '
+4/23/2010 11:07:29 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') set property 'WeaponSpeed' of ... to '100'
+4/23/2010 11:07:41 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') set property 'WeaponDamage' of ... to '70'
+4/23/2010 11:08:12 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') set property 'MaxDamage' of 0x4000000C (flamingsword) to '40'
+4/23/2010 11:08:34 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') set property 'Speed' of 0x4000000C (flamingsword) to '2'
+4/23/2010 11:08:47 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') set property 'HitLeechMana' of ... to '100'
+4/23/2010 11:08:53 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') set property 'HitLightning' of ... to '100'
+4/23/2010 11:08:59 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') set property 'HitLowerDefend' of ... to '70'
+4/23/2010 11:11:15 AM: 127.0.0.1: Player 0xB "Seu Jorge" ('mark') used command 'ressme '
+4/23/2010 11:12:13 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'delete '
+4/23/2010 11:12:14 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') deleting 0x4000008E (HakamaShita)
+4/23/2010 11:12:15 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'delete '
+4/23/2010 11:12:16 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') deleting 0x4000008F (Hakama)
+4/23/2010 11:12:16 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'delete '
+4/23/2010 11:12:17 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') deleting 0x40000092 (Bokuto)
+4/23/2010 11:12:18 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'delete '
+4/23/2010 11:12:22 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') deleting 0x40000093 (LeatherJingasa)
+4/23/2010 11:12:23 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'delete '
+4/23/2010 11:12:24 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') deleting 0x40000091 (TattsukeHakama)
+4/23/2010 11:13:20 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'admin '
+4/23/2010 11:13:35 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') deleting account carlos
+4/23/2010 11:14:05 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') adding new account: carlos
+4/23/2010 11:14:10 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') changing access level of account carlos to GameMaster
+4/23/2010 11:15:53 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'speedboost '
+4/23/2010 11:17:54 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add hol'
+4/23/2010 11:18:00 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2226, 1191, 0) in Felucca: "HolyAvenger"
+4/23/2010 11:18:00 AM: 192.168.1.78: Serials: 0x400003DC; 
+4/23/2010 11:18:25 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'delete '
+4/23/2010 11:18:26 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') deleting 0x400003DC (HolyAvenger)
+4/23/2010 11:18:33 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add heart'
+4/23/2010 11:18:36 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2225, 1191, 0) in Felucca: "HeartOfTheLion"
+4/23/2010 11:18:36 AM: 192.168.1.78: Serials: 0x400003DD; 
+4/23/2010 11:18:55 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add brac'
+4/23/2010 11:19:00 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2226, 1191, 0) in Felucca: "BraceletOfBinding"
+4/23/2010 11:19:00 AM: 192.168.1.78: Serials: 0x400003E2; 
+4/23/2010 11:19:06 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add brac'
+4/23/2010 11:19:10 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2225, 1191, 0) in Felucca: "GrizzleVambraces"
+4/23/2010 11:19:10 AM: 192.168.1.78: Serials: 0x400003E4; 
+4/23/2010 11:19:20 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2225, 1190, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:19:20 AM: 192.168.1.78: Serials: 0x400003E6; 
+4/23/2010 11:19:23 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2225, 1190, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:19:23 AM: 192.168.1.78: Serials: 0x400003E8; 
+4/23/2010 11:19:29 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2225, 1190, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:19:29 AM: 192.168.1.78: Serials: 0x400003E9; 
+4/23/2010 11:19:36 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2225, 1190, 1) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:19:36 AM: 192.168.1.78: Serials: 0x400003EC; 
+4/23/2010 11:19:40 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2225, 1190, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:19:40 AM: 192.168.1.78: Serials: 0x400003EE; 
+4/23/2010 11:19:42 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2225, 1190, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:19:42 AM: 192.168.1.78: Serials: 0x400003EF; 
+4/23/2010 11:19:44 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2225, 1190, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:19:44 AM: 192.168.1.78: Serials: 0x400003F0; 
+4/23/2010 11:19:48 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2226, 1191, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:19:48 AM: 192.168.1.78: Serials: 0x400003F6; 
+4/23/2010 11:19:50 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2226, 1191, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:19:50 AM: 192.168.1.78: Serials: 0x400003F7; 
+4/23/2010 11:19:51 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2226, 1189, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:19:51 AM: 192.168.1.78: Serials: 0x400003FA; 
+4/23/2010 11:19:51 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2226, 1190, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:19:51 AM: 192.168.1.78: Serials: 0x40000402; 
+4/23/2010 11:19:51 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2226, 1190, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:19:51 AM: 192.168.1.78: Serials: 0x40000404; 
+4/23/2010 11:19:51 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2226, 1191, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:19:51 AM: 192.168.1.78: Serials: 0x40000408; 
+4/23/2010 11:19:54 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2225, 1190, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:19:54 AM: 192.168.1.78: Serials: 0x4000040A; 
+4/23/2010 11:19:55 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2225, 1189, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:19:55 AM: 192.168.1.78: Serials: 0x4000040C; 
+4/23/2010 11:19:57 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2225, 1189, 1) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:19:57 AM: 192.168.1.78: Serials: 0x4000040E; 
+4/23/2010 11:19:59 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2225, 1189, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:19:59 AM: 192.168.1.78: Serials: 0x40000410; 
+4/23/2010 11:19:59 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2226, 1189, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:19:59 AM: 192.168.1.78: Serials: 0x40000411; 
+4/23/2010 11:20:00 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2226, 1190, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:20:00 AM: 192.168.1.78: Serials: 0x40000414; 
+4/23/2010 11:20:00 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2226, 1190, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:20:00 AM: 192.168.1.78: Serials: 0x40000416; 
+4/23/2010 11:20:01 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2226, 1190, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:20:01 AM: 192.168.1.78: Serials: 0x40000418; 
+4/23/2010 11:20:04 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2225, 1190, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:20:04 AM: 192.168.1.78: Serials: 0x40000419; 
+4/23/2010 11:20:09 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2225, 1190, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:20:09 AM: 192.168.1.78: Serials: 0x4000041C; 
+4/23/2010 11:20:10 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2224, 1191, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:20:10 AM: 192.168.1.78: Serials: 0x4000041E; 
+4/23/2010 11:20:14 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2224, 1190, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:20:14 AM: 192.168.1.78: Serials: 0x40000420; 
+4/23/2010 11:20:17 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2224, 1189, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:20:17 AM: 192.168.1.78: Serials: 0x40000422; 
+4/23/2010 11:20:19 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2224, 1190, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:20:19 AM: 192.168.1.78: Serials: 0x40000424; 
+4/23/2010 11:20:21 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2224, 1190, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:20:21 AM: 192.168.1.78: Serials: 0x4000042E; 
+4/23/2010 11:20:21 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2224, 1190, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:20:21 AM: 192.168.1.78: Serials: 0x40000434; 
+4/23/2010 11:20:22 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2224, 1191, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:20:22 AM: 192.168.1.78: Serials: 0x40000435; 
+4/23/2010 11:20:22 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2224, 1190, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:20:22 AM: 192.168.1.78: Serials: 0x40000438; 
+4/23/2010 11:20:22 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2224, 1189, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:20:22 AM: 192.168.1.78: Serials: 0x40000440; 
+4/23/2010 11:20:51 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add br'
+4/23/2010 11:20:57 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'wipe '
+4/23/2010 11:20:59 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') wiping from (2223, 1189, 0) to (2228, 1192, 0) in Felucca (Items, Mobiles)
+4/23/2010 11:21:03 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'wipe '
+4/23/2010 11:21:04 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') wiping from (2225, 1183, 0) to (2228, 1185, 0) in Felucca (Items, Mobiles)
+4/23/2010 11:21:22 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add brac'
+4/23/2010 11:21:25 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2262, 1201, 0) in Felucca: "BrilliantAmberBracelet"
+4/23/2010 11:21:25 AM: 192.168.1.78: Serials: 0x40000446; 
+4/23/2010 11:21:27 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2262, 1201, 0) in Felucca: "BrilliantAmberBracelet"
+4/23/2010 11:21:27 AM: 192.168.1.78: Serials: 0x40000448; 
+4/23/2010 11:21:28 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2261, 1201, 0) in Felucca: "BrilliantAmberBracelet"
+4/23/2010 11:21:28 AM: 192.168.1.78: Serials: 0x40000449; 
+4/23/2010 11:21:29 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2261, 1201, 0) in Felucca: "BrilliantAmberBracelet"
+4/23/2010 11:21:29 AM: 192.168.1.78: Serials: 0x4000044C; 
+4/23/2010 11:21:30 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2260, 1200, 0) in Felucca: "BrilliantAmberBracelet"
+4/23/2010 11:21:30 AM: 192.168.1.78: Serials: 0x4000044D; 
+4/23/2010 11:21:31 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2260, 1199, 0) in Felucca: "BrilliantAmberBracelet"
+4/23/2010 11:21:31 AM: 192.168.1.78: Serials: 0x4000044E; 
+4/23/2010 11:21:31 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2260, 1197, 0) in Felucca: "BrilliantAmberBracelet"
+4/23/2010 11:21:31 AM: 192.168.1.78: Serials: 0x4000045C; 
+4/23/2010 11:21:31 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2261, 1196, 0) in Felucca: "BrilliantAmberBracelet"
+4/23/2010 11:21:31 AM: 192.168.1.78: Serials: 0x40000462; 
+4/23/2010 11:21:31 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2262, 1196, 0) in Felucca: "BrilliantAmberBracelet"
+4/23/2010 11:21:31 AM: 192.168.1.78: Serials: 0x4000046D; 
+4/23/2010 11:21:32 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2264, 1198, 0) in Felucca: "BrilliantAmberBracelet"
+4/23/2010 11:21:32 AM: 192.168.1.78: Serials: 0x40000470; 
+4/23/2010 11:21:32 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2265, 1199, 0) in Felucca: "BrilliantAmberBracelet"
+4/23/2010 11:21:32 AM: 192.168.1.78: Serials: 0x40000485; 
+4/23/2010 11:21:32 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2265, 1200, 0) in Felucca: "BrilliantAmberBracelet"
+4/23/2010 11:21:32 AM: 192.168.1.78: Serials: 0x4000048B; 
+4/23/2010 11:21:32 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2265, 1200, 0) in Felucca: "BrilliantAmberBracelet"
+4/23/2010 11:21:32 AM: 192.168.1.78: Serials: 0x4000048C; 
+4/23/2010 11:21:32 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2266, 1197, 0) in Felucca: "BrilliantAmberBracelet"
+4/23/2010 11:21:32 AM: 192.168.1.78: Serials: 0x40000492; 
+4/23/2010 11:21:32 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2265, 1197, 0) in Felucca: "BrilliantAmberBracelet"
+4/23/2010 11:21:32 AM: 192.168.1.78: Serials: 0x40000493; 
+4/23/2010 11:21:33 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2264, 1197, 0) in Felucca: "BrilliantAmberBracelet"
+4/23/2010 11:21:33 AM: 192.168.1.78: Serials: 0x4000049C; 
+4/23/2010 11:21:33 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2263, 1197, 0) in Felucca: "BrilliantAmberBracelet"
+4/23/2010 11:21:33 AM: 192.168.1.78: Serials: 0x4000049E; 
+4/23/2010 11:21:33 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2264, 1196, 0) in Felucca: "BrilliantAmberBracelet"
+4/23/2010 11:21:33 AM: 192.168.1.78: Serials: 0x400004A2; 
+4/23/2010 11:21:55 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'wipe '
+4/23/2010 11:21:56 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') wiping from (2258, 1195, 0) to (2266, 1202, 0) in Felucca (Items, Mobiles)
+4/23/2010 11:22:01 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add brac'
+4/23/2010 11:22:05 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2260, 1202, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:05 AM: 192.168.1.78: Serials: 0x400004A4; 
+4/23/2010 11:22:06 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2263, 1202, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:06 AM: 192.168.1.78: Serials: 0x400004AD; 
+4/23/2010 11:22:06 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2265, 1202, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:06 AM: 192.168.1.78: Serials: 0x400004B1; 
+4/23/2010 11:22:06 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2266, 1202, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:06 AM: 192.168.1.78: Serials: 0x400004B3; 
+4/23/2010 11:22:07 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2267, 1201, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:07 AM: 192.168.1.78: Serials: 0x400004B4; 
+4/23/2010 11:22:07 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2266, 1199, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:07 AM: 192.168.1.78: Serials: 0x400004B5; 
+4/23/2010 11:22:07 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2266, 1197, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:07 AM: 192.168.1.78: Serials: 0x400004B8; 
+4/23/2010 11:22:08 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2265, 1197, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:08 AM: 192.168.1.78: Serials: 0x400004B9; 
+4/23/2010 11:22:08 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2264, 1199, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:08 AM: 192.168.1.78: Serials: 0x400004BC; 
+4/23/2010 11:22:08 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2265, 1200, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:08 AM: 192.168.1.78: Serials: 0x400004BE; 
+4/23/2010 11:22:08 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2266, 1201, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:08 AM: 192.168.1.78: Serials: 0x400004C2; 
+4/23/2010 11:22:09 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2261, 1201, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:09 AM: 192.168.1.78: Serials: 0x400004CA; 
+4/23/2010 11:22:10 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2264, 1201, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:10 AM: 192.168.1.78: Serials: 0x400004CB; 
+4/23/2010 11:22:10 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2263, 1198, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:10 AM: 192.168.1.78: Serials: 0x400004CF; 
+4/23/2010 11:22:10 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2263, 1199, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:10 AM: 192.168.1.78: Serials: 0x400004D5; 
+4/23/2010 11:22:11 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2262, 1202, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:11 AM: 192.168.1.78: Serials: 0x400004D7; 
+4/23/2010 11:22:11 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2261, 1204, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:11 AM: 192.168.1.78: Serials: 0x400004D8; 
+4/23/2010 11:22:12 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2259, 1200, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:12 AM: 192.168.1.78: Serials: 0x400004DD; 
+4/23/2010 11:22:12 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2259, 1198, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:12 AM: 192.168.1.78: Serials: 0x400004DF; 
+4/23/2010 11:22:13 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2261, 1197, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:13 AM: 192.168.1.78: Serials: 0x400004E1; 
+4/23/2010 11:22:13 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2262, 1197, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:13 AM: 192.168.1.78: Serials: 0x400004E3; 
+4/23/2010 11:22:13 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2264, 1197, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:13 AM: 192.168.1.78: Serials: 0x400004E6; 
+4/23/2010 11:22:14 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2260, 1200, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:14 AM: 192.168.1.78: Serials: 0x400004E9; 
+4/23/2010 11:22:14 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2260, 1196, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:14 AM: 192.168.1.78: Serials: 0x400004EB; 
+4/23/2010 11:22:15 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2264, 1195, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:15 AM: 192.168.1.78: Serials: 0x400004EE; 
+4/23/2010 11:22:15 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2264, 1196, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:15 AM: 192.168.1.78: Serials: 0x400004EF; 
+4/23/2010 11:22:15 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2267, 1196, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:15 AM: 192.168.1.78: Serials: 0x400004F0; 
+4/23/2010 11:22:15 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2264, 1196, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:15 AM: 192.168.1.78: Serials: 0x400004F1; 
+4/23/2010 11:22:16 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2262, 1196, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:16 AM: 192.168.1.78: Serials: 0x400004F2; 
+4/23/2010 11:22:16 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2262, 1195, 0) in Felucca: "WhitePearlBracelet"
+4/23/2010 11:22:16 AM: 192.168.1.78: Serials: 0x400004F5; 
+4/23/2010 11:23:31 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'wipe '
+4/23/2010 11:23:33 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') wiping from (2256, 1195, 0) to (2266, 1205, 0) in Felucca (Items, Mobiles)
+4/23/2010 11:23:44 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'props '
+4/23/2010 11:23:56 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'HitPoints' of 0x400003E2 (BraceletOfBinding) to '5'
+4/23/2010 11:25:33 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add orn'
+4/23/2010 11:25:38 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2261, 1202, 0) in Felucca: "BlackthornsKryss"
+4/23/2010 11:25:38 AM: 192.168.1.78: Serials: 0x400004F9; 
+4/23/2010 11:25:45 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add orn'
+4/23/2010 11:25:48 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2262, 1201, 0) in Felucca: "DreadHorn"
+4/23/2010 11:25:48 AM: 192.168.1.78: Serials: 0x3; 
+4/23/2010 11:26:34 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'admin '
+4/23/2010 11:26:46 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'props '
+4/23/2010 11:27:01 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') set property 'Controlled' of 0x3 "a Dread Horn" (no account) to 'True'
+4/23/2010 11:27:06 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') set property 'ControlMaster' of 0x3 "a Dread Horn" (no account) to '0x1 "Owner Mark"'
+4/23/2010 11:27:34 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') set property 'IsBonded' of 0x3 "a Dread Horn" (no account) to 'True'
+4/23/2010 11:27:50 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'M Tele'
+4/23/2010 11:28:16 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'kill '
+4/23/2010 11:28:17 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') killing 0x3 "a Dread Horn" (no account)
+4/23/2010 11:29:01 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'setallskills 120'
+4/23/2010 11:29:01 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') set property 'EverySkill.Base' of 0x1 "Owner Mark" ('admin') to '120'
+4/23/2010 11:29:39 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add '
+4/23/2010 11:29:44 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add orn'
+4/23/2010 11:29:54 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2252, 1207, 0) in Felucca: "OrnamentOfTheMagician"
+4/23/2010 11:29:54 AM: 192.168.1.78: Serials: 0x40000740; 
+4/23/2010 11:29:58 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add orn'
+4/23/2010 11:30:10 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2252, 1207, 0) in Felucca: "Unicorn"
+4/23/2010 11:30:10 AM: 192.168.1.78: Serials: 0x6; 
+4/23/2010 11:30:22 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'delete '
+4/23/2010 11:30:22 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') deleting 0x6 "a unicorn" (no account)
+4/23/2010 11:30:24 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'delete '
+4/23/2010 11:30:25 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') deleting 0x4000072C (Corpse)
+4/23/2010 11:30:27 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'delete '
+4/23/2010 11:30:27 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') deleting 0x3 "a Dread Horn" (no account)
+4/23/2010 11:30:30 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add '
+4/23/2010 11:30:35 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add orn'
+4/23/2010 11:30:52 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add greth'
+4/23/2010 11:31:03 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2254, 1205, 0) in Felucca: "GreaterDragon"
+4/23/2010 11:31:03 AM: 192.168.1.78: Serials: 0x7; 
+4/23/2010 11:31:10 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'delete '
+4/23/2010 11:31:11 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') deleting 0x7 "a greater dragon" (no account)
+4/23/2010 11:31:21 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add an evil zorander'
+4/23/2010 11:31:36 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add '
+4/23/2010 11:31:43 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add elder'
+4/23/2010 11:32:01 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add night'
+4/23/2010 11:32:06 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2255, 1204, 0) in Felucca: "Nightmare"
+4/23/2010 11:32:06 AM: 192.168.1.78: Serials: 0x8; 
+4/23/2010 11:32:10 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add night'
+4/23/2010 11:32:13 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2257, 1207, 0) in Felucca: "Nightmare"
+4/23/2010 11:32:13 AM: 192.168.1.78: Serials: 0x9; 
+4/23/2010 11:32:13 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2255, 1207, 0) in Felucca: "Nightmare"
+4/23/2010 11:32:13 AM: 192.168.1.78: Serials: 0xA; 
+4/23/2010 11:32:13 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2257, 1207, 0) in Felucca: "Nightmare"
+4/23/2010 11:32:13 AM: 192.168.1.78: Serials: 0xC; 
+4/23/2010 11:32:14 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2258, 1206, 0) in Felucca: "Nightmare"
+4/23/2010 11:32:14 AM: 192.168.1.78: Serials: 0xD; 
+4/23/2010 11:32:14 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2259, 1206, 0) in Felucca: "Nightmare"
+4/23/2010 11:32:14 AM: 192.168.1.78: Serials: 0xE; 
+4/23/2010 11:32:14 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2259, 1206, 0) in Felucca: "Nightmare"
+4/23/2010 11:32:14 AM: 192.168.1.78: Serials: 0xF; 
+4/23/2010 11:32:46 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'wipe '
+4/23/2010 11:32:47 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') wiping from (2252, 1199, 0) to (2264, 1210, 0) in Felucca (Items, Mobiles)
+4/23/2010 11:32:50 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'delete '
+4/23/2010 11:32:51 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') deleting 0xA "a nightmare" (no account)
+4/23/2010 11:36:28 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add black'
+4/23/2010 11:36:43 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add heart'
+4/23/2010 11:37:02 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add heart of black'
+4/23/2010 11:37:05 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add black'
+4/23/2010 11:37:18 AM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2255, 1200, 0) in Felucca: "RewardBlackDyeTub"
+4/23/2010 11:37:18 AM: 192.168.1.78: Serials: 0x40000833; 
+4/23/2010 11:58:01 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'teleport '
+4/23/2010 11:58:02 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'teleport '
+4/23/2010 11:58:03 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'teleport '
+4/23/2010 11:58:04 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'teleport '
+4/23/2010 11:58:05 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'teleport '
+4/23/2010 11:58:05 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'teleport '
+4/23/2010 11:58:06 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'teleport '
+4/23/2010 11:58:06 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'teleport '
+4/23/2010 11:58:07 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'teleport '
+4/23/2010 11:58:07 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'teleport '
+4/23/2010 11:58:07 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'teleport '
+4/23/2010 11:58:08 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'teleport '
+4/23/2010 11:58:08 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'teleport '
+4/23/2010 11:58:08 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'teleport '
+4/23/2010 11:58:09 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'teleport '
+4/23/2010 11:58:09 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'teleport '
+4/23/2010 11:58:14 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'save '
+##############################
+Log started on 4/23/2010 5:40:55 PM
+
+4/23/2010 5:50:37 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'add cross'
+4/23/2010 5:50:40 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') building at (2225, 1190, 0) in Felucca: "Crossbow"
+4/23/2010 5:50:40 PM: 127.0.0.1: Serials: 0x4000009B; 
+4/23/2010 5:50:59 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'set str 150'
+4/23/2010 5:51:00 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') set property 'str' of 0x1 "Owner Mark" ('admin') to '150'
+4/23/2010 5:56:09 PM: 127.0.0.1: Player 0xB "Seu Jorge" ('mark') used command 'ressme '
+4/23/2010 5:57:05 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'setguarded false'
+##############################
+Log started on 4/23/2010 10:13:46 PM
+
+##############################
+Log started on 4/23/2010 10:42:07 PM
+
+4/23/2010 10:45:17 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'delete '
+4/23/2010 10:45:19 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') deleting 0x40000083 (Robe)
+4/23/2010 10:45:59 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'add ink'
+4/23/2010 10:47:04 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'add inn'
+4/23/2010 10:47:15 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') building at (2227, 1198, 0) in Felucca: "InnKeeper"
+4/23/2010 10:47:15 PM: 127.0.0.1: Serials: 0x6; 
+4/23/2010 10:47:42 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'props '
+4/23/2010 10:48:12 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'set cantwalk true'
+4/23/2010 10:48:13 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') set property 'cantwalk' of 0x6 "Sheba" (no account) to 'True'
+4/23/2010 10:48:16 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'move '
+4/23/2010 10:48:20 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') moving 0x6 "Sheba" (no account) to (2227, 1198, 0)
+4/23/2010 10:48:24 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'move '
+4/23/2010 10:48:26 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') moving 0x6 "Sheba" (no account) to (2226, 1196, 0)
+4/23/2010 10:48:29 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'add chair'
+4/23/2010 10:48:33 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') building at (2227, 1198, 0) in Felucca: "BambooChair"
+4/23/2010 10:48:33 PM: 127.0.0.1: Serials: 0x40000109; 
+4/23/2010 10:48:40 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') building at (2227, 1199, 0) in Felucca: "CoveredChair"
+4/23/2010 10:48:40 PM: 127.0.0.1: Serials: 0x4000010A; 
+4/23/2010 10:48:45 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'move '
+4/23/2010 10:48:49 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') moving 0x4000010A (CoveredChair) to (2237, 1192, 0)
+4/23/2010 10:48:52 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'delete '
+4/23/2010 10:48:53 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') deleting 0x40000109 (BambooChair)
+4/23/2010 10:48:55 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'move '
+4/23/2010 10:48:57 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') moving 0x6 "Sheba" (no account) to (2237, 1192, 15)
+4/23/2010 10:48:59 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'move '
+4/23/2010 10:49:00 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') moving 0x6 "Sheba" (no account) to (2237, 1192, 0)
+4/23/2010 10:49:13 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'set cantwalk false'
+4/23/2010 10:49:14 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') set property 'cantwalk' of 0x6 "Sheba" (no account) to 'False'
+4/23/2010 10:49:19 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'move '
+4/23/2010 10:49:21 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'move '
+4/23/2010 10:49:23 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') moving 0x6 "Sheba" (no account) to (2236, 1192, 0)
+4/23/2010 10:49:31 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'set cantwalk true'
+4/23/2010 10:49:36 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'move '
+4/23/2010 10:49:38 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') moving 0x6 "Sheba" (no account) to (2237, 1192, 0)
+4/23/2010 10:49:46 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'set movable false'
+4/23/2010 10:49:47 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') set property 'movable' of 0x4000010A (CoveredChair) to 'False'
+4/23/2010 10:49:57 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'move '
+4/23/2010 10:49:59 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') moving 0x6 "Sheba" (no account) to (2237, 1192, 15)
+4/23/2010 10:50:00 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'move '
+4/23/2010 10:50:02 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') moving 0x6 "Sheba" (no account) to (2237, 1192, 0)
+4/23/2010 10:50:08 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'delete '
+4/23/2010 10:50:09 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') deleting 0x4000010A (CoveredChair)
+4/23/2010 10:50:20 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'add chai'
+4/23/2010 10:50:33 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') building at (2226, 1198, 0) in Felucca: "RuinedChair"
+4/23/2010 10:50:33 PM: 127.0.0.1: Serials: 0x40000492; 
+4/23/2010 10:50:39 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'move '
+4/23/2010 10:50:42 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') moving 0x6 "Sheba" (no account) to (2226, 1198, 0)
+4/23/2010 10:50:44 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'move '
+4/23/2010 10:50:46 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') moving 0x6 "Sheba" (no account) to (2225, 1199, 0)
+4/23/2010 10:51:11 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'move '
+4/23/2010 10:51:14 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') moving 0x40000492 (RuinedChair) to (2227, 1198, 0)
+4/23/2010 10:51:22 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'props '
+4/23/2010 10:51:33 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') set property 'Direction' of 0x40000492 (RuinedChair) to 'East'
+4/23/2010 10:51:57 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'props '
+4/23/2010 10:51:59 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'props '
+4/23/2010 10:52:13 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'delete '
+4/23/2010 10:52:15 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') deleting 0x40000492 (RuinedChair)
+4/23/2010 10:52:18 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'move '
+4/23/2010 10:52:26 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'move '
+4/23/2010 10:52:27 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') moving 0x6 "Sheba" (no account) to (2227, 1198, 0)
+4/23/2010 10:52:31 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'move '
+4/23/2010 10:52:37 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') moving 0x6 "Sheba" (no account) to (2219, 1200, 0)
+4/23/2010 10:52:46 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'set cantwalk true'
+4/23/2010 10:52:47 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') set property 'cantwalk' of 0x6 "Sheba" (no account) to 'True'
+4/23/2010 10:52:49 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'teleport '
+4/23/2010 10:52:49 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'teleport '
+4/23/2010 10:52:54 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'move '
+4/23/2010 10:52:57 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') moving 0x6 "Sheba" (no account) to (2219, 1200, 0)
+4/23/2010 10:53:03 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'add robe'
+4/23/2010 10:53:05 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') building at (2219, 1203, 0) in Felucca: "robe"
+4/23/2010 10:53:05 PM: 127.0.0.1: Serials: 0x400004BE; 
+4/23/2010 10:53:43 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'Set hue 2589'
+4/23/2010 10:53:44 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') set property 'hue' of 0x400004BE (Robe) to '2589'
+4/23/2010 10:55:08 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'add chi'
+4/23/2010 10:55:13 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') building at (2220, 1203, 0) in Felucca: "BookOfChivalry"
+4/23/2010 10:55:13 PM: 127.0.0.1: Serials: 0x400004D7; 
+4/23/2010 10:55:19 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'props '
+4/23/2010 10:58:24 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'add vin'
+4/23/2010 10:58:27 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') building at (2222, 1204, 0) in Felucca: "VineCords"
+4/23/2010 10:58:27 PM: 127.0.0.1: Serials: 0x400005B5; 
+4/23/2010 11:04:29 PM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'save '

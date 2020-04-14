@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/38/trunk/Scripts/Customs/Xml%20Spawner
+END
+ItemFlags.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/38/trunk/Scripts/Customs/Xml%20Spawner/ItemFlags.cs
+END
+BaseXmlSpawner.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/38/trunk/Scripts/Customs/Xml%20Spawner/BaseXmlSpawner.cs
+END
+installation 2.0.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/38/trunk/Scripts/Customs/Xml%20Spawner/installation%202.0.txt
+END
+XmlSpawnerGumps.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/38/trunk/Scripts/Customs/Xml%20Spawner/XmlSpawnerGumps.cs
+END
+XmlSpawnerSkillCheck.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/38/trunk/Scripts/Customs/Xml%20Spawner/XmlSpawnerSkillCheck.cs
+END
+Instructions for importing maps.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/38/trunk/Scripts/Customs/Xml%20Spawner/Instructions%20for%20importing%20maps.txt
+END
+XmlSpawner2.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/38/trunk/Scripts/Customs/Xml%20Spawner/XmlSpawner2.cs
+END
+XmlTextEntryBook.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/38/trunk/Scripts/Customs/Xml%20Spawner/XmlTextEntryBook.cs
+END
+PacketHandlerOverrides.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/38/trunk/Scripts/Customs/Xml%20Spawner/PacketHandlerOverrides.cs
+END

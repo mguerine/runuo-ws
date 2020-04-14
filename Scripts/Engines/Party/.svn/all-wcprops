@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/103/trunk/Scripts/Engines/Party
+END
+AddPartyTarget.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/7/trunk/Scripts/Engines/Party/AddPartyTarget.cs
+END
+Party.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/7/trunk/Scripts/Engines/Party/Party.cs
+END
+PartyCommands.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/7/trunk/Scripts/Engines/Party/PartyCommands.cs
+END
+PartyMemberInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/7/trunk/Scripts/Engines/Party/PartyMemberInfo.cs
+END
+DeclineTimer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/103/trunk/Scripts/Engines/Party/DeclineTimer.cs
+END
+RemovePartyTarget.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/7/trunk/Scripts/Engines/Party/RemovePartyTarget.cs
+END
+Packets.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/7/trunk/Scripts/Engines/Party/Packets.cs
+END

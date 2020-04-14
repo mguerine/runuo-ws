@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/16/trunk/Scripts/Targets
+END
+MoveTarget.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/16/trunk/Scripts/Targets/MoveTarget.cs
+END
+BladedItemTarget.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/16/trunk/Scripts/Targets/BladedItemTarget.cs
+END
+PickMoveTarget.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/16/trunk/Scripts/Targets/PickMoveTarget.cs
+END

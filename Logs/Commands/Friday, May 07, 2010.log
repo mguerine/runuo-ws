@@ -1,0 +1,174 @@
+##############################
+Log started on 5/7/2010 7:01:53 PM
+
+##############################
+Log started on 5/7/2010 7:20:30 PM
+
+5/7/2010 7:23:30 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add '
+5/7/2010 7:23:36 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add dream'
+5/7/2010 7:23:41 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (2224, 1187, 0) in Felucca: "DreamLine"
+5/7/2010 7:23:41 PM: 200.181.87.155: Serials: 0x40001921; 
+5/7/2010 7:25:38 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1947'
+5/7/2010 7:25:40 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x40001921 (DreamLine) to '1947'
+5/7/2010 7:25:52 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1952'
+5/7/2010 7:25:54 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x40001921 (DreamLine) to '1952'
+5/7/2010 7:26:01 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1954'
+5/7/2010 7:26:02 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x40001921 (DreamLine) to '1954'
+5/7/2010 7:26:10 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1958'
+5/7/2010 7:26:12 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x40001921 (DreamLine) to '1958'
+5/7/2010 7:26:33 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1962'
+5/7/2010 7:26:35 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x40001921 (DreamLine) to '1962'
+5/7/2010 7:26:49 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 2659'
+5/7/2010 7:26:51 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x40001921 (DreamLine) to '2659'
+5/7/2010 7:27:21 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1936'
+5/7/2010 7:27:23 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x40001921 (DreamLine) to '1936'
+5/7/2010 7:27:35 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1953'
+5/7/2010 7:27:38 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x40001921 (DreamLine) to '1953'
+5/7/2010 7:27:40 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1953'
+5/7/2010 7:27:41 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400002AE (CrimsonCincture) to '1953'
+5/7/2010 7:27:43 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1953'
+5/7/2010 7:27:46 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400001F2 (Stormgrip) to '1953'
+5/7/2010 7:27:48 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1953'
+5/7/2010 7:27:50 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x40000246 (Sandals) to '1953'
+5/7/2010 7:27:52 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1953'
+5/7/2010 7:27:53 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400001C0 (JackalsCollar) to '1953'
+5/7/2010 7:27:55 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1953'
+5/7/2010 7:27:56 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400001E4 (ConjurersTrinket) to '1953'
+5/7/2010 7:27:59 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1953'
+5/7/2010 7:28:00 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x40000AD2 (QuiverOfRage) to '1953'
+5/7/2010 7:28:04 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1953'
+5/7/2010 7:28:06 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x4 "Tureco" ('Tureco') to '1953'
+5/7/2010 7:29:53 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'set skillscap 7200'
+5/7/2010 7:29:55 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'skillscap' of 0x4 "Tureco" ('Tureco') to '7200'
+5/7/2010 7:31:31 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+5/7/2010 7:31:35 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+5/7/2010 7:31:42 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Durability' of 0x40001925 (LeatherLegs) to 'Indestructible'
+5/7/2010 7:31:57 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'MaxHitPoints' of 0x40001925 (LeatherLegs) to '255'
+5/7/2010 7:32:41 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'BonusMana' of ... to '5'
+5/7/2010 7:32:55 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'LowerManaCost' of ... to '5'
+5/7/2010 7:33:05 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'ReflectPhysical' of ... to '14'
+5/7/2010 7:33:12 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+5/7/2010 7:33:38 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'PhysicalBonus' of 0x40001925 (LeatherLegs) to '0'
+5/7/2010 7:33:47 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'PhysicalBonus' of 0x40001925 (LeatherLegs) to '-1'
+5/7/2010 7:34:10 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'FireBonus' of 0x40001925 (LeatherLegs) to '7'
+5/7/2010 7:34:23 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'ColdBonus' of 0x40001925 (LeatherLegs) to '0'
+5/7/2010 7:34:34 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'ColdBonus' of 0x40001925 (LeatherLegs) to '-2'
+5/7/2010 7:34:55 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'PoisonBonus' of 0x40001925 (LeatherLegs) to '10'
+5/7/2010 7:35:22 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'EnergyBonus' of 0x40001925 (LeatherLegs) to '1'
+5/7/2010 7:35:29 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'EnergyBonus' of 0x40001925 (LeatherLegs) to '-3'
+5/7/2010 7:35:43 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add mace'
+5/7/2010 7:35:47 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add macean'
+5/7/2010 7:35:52 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (2219, 1203, 0) in Felucca: "MaceAndShieldGlasses"
+5/7/2010 7:35:52 PM: 200.181.87.155: Serials: 0x40001926; 
+5/7/2010 7:36:18 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1953'
+5/7/2010 7:36:20 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x4000025D (LeatherArms) to '1953'
+5/7/2010 7:36:21 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1953'
+5/7/2010 7:36:22 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x40001925 (LeatherLegs) to '1953'
+5/7/2010 7:36:22 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1953'
+5/7/2010 7:36:24 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400001F0 (HeartOfTheLion) to '1953'
+5/7/2010 7:36:24 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1953'
+5/7/2010 7:36:26 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400001D6 (LieutenantOfTheBritannianRoyalGuard) to '1953'
+5/7/2010 7:36:27 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1953'
+5/7/2010 7:36:28 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x4000079B (BrilliantAmberBracelet) to '1953'
+5/7/2010 7:36:30 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1953'
+5/7/2010 7:36:33 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x40001926 (MaceAndShieldGlasses) to '1953'
+5/7/2010 7:36:52 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1953'
+5/7/2010 7:36:53 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x4000025C (LeatherLegs) to '1953'
+5/7/2010 7:36:54 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1953'
+5/7/2010 7:36:54 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x4000007E (Backpack) to '1953'
+5/7/2010 7:36:56 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1953'
+5/7/2010 7:37:00 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x4000079A (TurqouiseRing) to '1953'
+5/7/2010 7:40:19 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+5/7/2010 7:40:37 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'BonusMana' of ... to '0'
+5/7/2010 7:40:42 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'BonusHits' of ... to '5'
+5/7/2010 7:45:53 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+5/7/2010 7:45:58 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Balanced' of 0x40001921 (DreamLine) to 'False'
+5/7/2010 7:46:01 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Balanced' of 0x40001921 (DreamLine) to 'True'
+5/7/2010 7:46:06 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Velocity' of 0x40001921 (DreamLine) to '30'
+5/7/2010 7:48:06 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+5/7/2010 7:48:48 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'DurabilityLevel' of 0x40001921 (DreamLine) to 'Indestructible'
+5/7/2010 7:49:15 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'save '
+5/7/2010 7:51:13 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'speedboost '
+##############################
+Log started on 5/7/2010 7:54:10 PM
+
+5/7/2010 7:56:59 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'set skillscap 7200'
+5/7/2010 7:57:12 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'skillscap' of 0xB "Seu Jorge" ('mark') to '7200'
+5/7/2010 7:57:25 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'M Tele'
+5/7/2010 7:57:51 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+5/7/2010 7:57:53 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0xB "Seu Jorge" ('mark') to (4569, 3553, 30)
+5/7/2010 7:57:57 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'M Tele'
+5/7/2010 7:58:07 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'M Tele'
+5/7/2010 7:58:20 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'M Tele'
+5/7/2010 7:58:33 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+5/7/2010 7:58:35 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0xB "Seu Jorge" ('mark') to (4566, 3555, 30)
+5/7/2010 7:58:38 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+5/7/2010 7:58:41 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0x1 "Owner Mark [Staff]" ('admin') to (4571, 3555, 30)
+5/7/2010 7:58:43 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'M Tele'
+5/7/2010 7:59:06 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'M Tele'
+5/7/2010 7:59:16 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+5/7/2010 7:59:18 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0xB "Seu Jorge" ('mark') to (4582, 3562, 75)
+5/7/2010 7:59:24 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'M Tele'
+5/7/2010 7:59:28 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'M Tele'
+5/7/2010 7:59:35 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+5/7/2010 7:59:36 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0xB "Seu Jorge" ('mark') to (4587, 3578, 75)
+5/7/2010 7:59:37 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'M Tele'
+5/7/2010 7:59:40 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'admin '
+5/7/2010 7:59:44 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') killing 0xB "Seu Jorge" ('mark')
+5/7/2010 7:59:51 PM: 127.0.0.1: Player 0xB "Seu Jorge" ('mark') used command 'ressme '
+5/7/2010 7:59:55 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') resurrecting 0x4 "Tureco" ('Tureco')
+5/7/2010 8:03:18 PM: 200.181.87.155: Player 0x4 "Tureco" ('Tureco') used command 'ressme '
+5/7/2010 8:04:49 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'save '
+5/7/2010 8:29:15 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'admin '
+5/7/2010 8:29:19 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') killing 0xB "Seu Jorge" ('mark')
+5/7/2010 8:29:21 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') resurrecting 0xB "Seu Jorge" ('mark')
+5/7/2010 8:29:24 PM: 127.0.0.1: Player 0xB "Seu Jorge" ('mark') used command 'ressme '
+5/7/2010 8:29:28 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') resurrecting 0x4 "Tureco" ('Tureco')
+5/7/2010 8:30:17 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'ressme '
+5/7/2010 8:32:16 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'admin '
+5/7/2010 8:32:21 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') resurrecting 0x4 "Tureco" ('Tureco')
+5/7/2010 8:34:29 PM: 200.181.87.155: Player 0x4 "Tureco" ('Tureco') used command 'ressme '
+5/7/2010 8:35:11 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+5/7/2010 8:35:12 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0x4 "Tureco" ('Tureco') to (4590, 3573, 75)
+5/7/2010 8:36:41 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+5/7/2010 8:36:46 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0x40003075 (Kryss) to (4588, 3575, 75)
+5/7/2010 8:37:08 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+5/7/2010 8:37:13 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0x40003075 (Kryss) to (4595, 3572, 75)
+5/7/2010 8:37:46 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'kill '
+5/7/2010 8:37:48 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'kill '
+5/7/2010 8:37:50 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+5/7/2010 8:37:50 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') killing 0x4 "Tureco" ('Tureco')
+5/7/2010 8:37:53 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0x40003075 (Kryss) to (4590, 3575, 75)
+5/7/2010 8:38:19 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'kill '
+5/7/2010 8:38:20 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') killing 0xB "Seu Jorge" ('mark')
+5/7/2010 8:38:21 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'admin '
+5/7/2010 8:38:24 PM: 127.0.0.1: Player 0xB "Seu Jorge" ('mark') used command 'ressme '
+5/7/2010 8:38:26 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') resurrecting 0x4 "Tureco" ('Tureco')
+5/7/2010 8:38:35 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'tele '
+5/7/2010 8:38:46 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'tele '
+5/7/2010 8:40:03 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add necro'
+5/7/2010 8:40:07 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (4597, 3575, 75) in Felucca: "NecromancerSpellbook"
+5/7/2010 8:40:07 PM: 192.168.1.78: Serials: 0x40001F95; 
+5/7/2010 8:40:31 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'set skillscap 65000'
+5/7/2010 8:40:33 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'skillscap' of 0x1 "Owner Mark [Staff]" ('admin') to '65000'
+5/7/2010 8:41:20 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+5/7/2010 8:41:22 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0xB "Seu Jorge" ('mark') to (4592, 3574, 75)
+5/7/2010 8:42:35 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add hatof'
+5/7/2010 8:42:44 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4589, 3576, 75) in Felucca: "HatOfTheMagi"
+5/7/2010 8:42:44 PM: 200.181.87.155: Serials: 0x40001FCE; 
+5/7/2010 8:43:23 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add orn'
+5/7/2010 8:43:33 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4590, 3569, 75) in Felucca: "OrnamentOfTheMagician"
+5/7/2010 8:43:33 PM: 200.181.87.155: Serials: 0x40001FCF; 
+5/7/2010 8:44:22 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+5/7/2010 8:44:24 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0x4 "Tureco" ('Tureco') to (4599, 3574, 76)
+5/7/2010 8:46:43 PM: 127.0.0.1: Player 0xB "Seu Jorge" ('mark') used command 'ressme '
+5/7/2010 8:48:28 PM: 200.181.87.155: Player 0x4 "Tureco" ('Tureco') used command 'ressme '
+5/7/2010 8:49:57 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'dupe '
+5/7/2010 8:50:00 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') duping 0x40001925 (LeatherLegs) (inBag=False; amount=1)
+5/7/2010 8:50:00 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') duped 0x40001925 (LeatherLegs) creating 0x400020F7 (LeatherLegs)
+5/7/2010 8:50:11 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+5/7/2010 8:50:22 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'BonusHits' of ... to '0'
+5/7/2010 8:50:32 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'ReflectPhysical' of ... to '0'
+5/7/2010 8:50:37 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'RegenMana' of ... to '2'
+5/7/2010 8:50:44 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'M Tele'
+5/7/2010 8:51:13 PM: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '

@@ -1,0 +1,100 @@
+#################################################################################
+#										#
+#		Ultima Online WS Project by Marcos Ribeiro			#
+#										#
+#			Started - 23/12/2009					#
+#										#
+#################################################################################
+
+
+
+------------------------------ TO DO LIST ---------------------------------------
+
+- apple
+
+- brace e ring 
+
+- sleeves e leggings
+
+- skillscap (mudando toda hora)
+
+- Fix offline player into CTF Game	*Forum RunUO
+
+- Delete and fix spawners	*ingame
+
+- SA artys
+
+- aumentar o cap de DI
+- deed mudanca sexo/raca/female
+
+
+
+--------------------------- UNDER CONSTRUCTION ----------------------------------
+
+~ Refresh kills counter~
+
+~ AutoSupply modifications 
+
+	ParryMage receives SpellChanneling Shield.
+	?
+
+~ Update Supply Stones for WS	*ingame
+	My Scripts\Pedras
+
+~ CTF re-equip stuff, supply stone	*ingame
+	under construction
+
+~ Create ctf arena and a place for team's choose	*ingame
+	under construction
+
+
+------------------------------- D O N E ----------------------------------------
+
+OK RunicTools enhanced
+
+OK Fukiya for 100 ninja or above
+
+OK [global set statcap 255 where playermobile
+
+OK Emotes and sounds Script. ( [emote )
+
+OK Add death/kills counts ( ranking system ):  (now is saving when server shutdown )
+	Scripts\Mobile\PlayerMobile.cs
+
+OK Ressme command	implement the 10s time for re-equip (immortal)
+	My Scripts\ressme.cs
+
+OK Added label ("Mystara Artifact") to weapons
+	\Scripts\Itens\Weapons\BaseWeapon.cs
+
+OK Runebook delay
+	...\Scripts\Items\Skill Items\Magical\Runebook.cs 7s to 2s
+
+OK Added Stone script
+	Commands\Stone.cs
+
+OK Added Conflagration, ConfusionBlast and MaskOfDeath potions
+	..\Scripts\My Scripts\My Potions
+
+OK CTF Flag home fixed
+	Teams ID should start at 0 and goes further adding 1 (IE: first team id 0, second id 1, etc)
+
+OK Fix CTF game region, fixing coords
+	CTFandDD\GameRegion.cs --PS: Game Area is working. You should restart the game twice and change game type to 1.
+
+OK CTF Script added
+	Scripts\CTF
+
+OK Implement [set system
+	Misc\Test Center\TestCenter.cs
+
+OK Add artifacts to new player's bank
+	Misc\CharacterCreation.cs
+
+OK Change welcome's message
+	Misc\WelcomeTimer.cs
+
+OK Change new player's start location
+	Misc\CharacterCreation.cs
+
+OK Change initial shard name

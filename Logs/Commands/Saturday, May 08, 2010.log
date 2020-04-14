@@ -1,0 +1,5 @@
+##############################
+Log started on 5/8/2010 3:56:04 PM
+
+5/8/2010 3:56:59 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'setallskills 120'
+5/8/2010 3:57:00 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'EverySkill.Base' of 0x1 "Owner Mark [Staff]" ('admin') to '120'

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/11/trunk/Scripts/Mobiles/Guards
+END
+BaseGuard.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/11/trunk/Scripts/Mobiles/Guards/BaseGuard.cs
+END
+ArcherGuard.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/11/trunk/Scripts/Mobiles/Guards/ArcherGuard.cs
+END
+WarriorGuard.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/11/trunk/Scripts/Mobiles/Guards/WarriorGuard.cs
+END

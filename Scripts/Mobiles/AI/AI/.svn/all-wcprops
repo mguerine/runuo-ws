@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/104/trunk/Scripts/Mobiles/AI/AI
+END
+AnimalAI.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/98/trunk/Scripts/Mobiles/AI/AI/AnimalAI.cs
+END
+SpellbinderAI.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/104/trunk/Scripts/Mobiles/AI/AI/SpellbinderAI.cs
+END
+ArcherAI.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/98/trunk/Scripts/Mobiles/AI/AI/ArcherAI.cs
+END
+MeleeAI.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/98/trunk/Scripts/Mobiles/AI/AI/MeleeAI.cs
+END
+MageAI.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/98/trunk/Scripts/Mobiles/AI/AI/MageAI.cs
+END
+BaseAI.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/104/trunk/Scripts/Mobiles/AI/AI/BaseAI.cs
+END
+VendorAI.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/98/trunk/Scripts/Mobiles/AI/AI/VendorAI.cs
+END
+BerserkAI.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/98/trunk/Scripts/Mobiles/AI/AI/BerserkAI.cs
+END
+ThiefAI.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/98/trunk/Scripts/Mobiles/AI/AI/ThiefAI.cs
+END
+PredatorAI.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/98/trunk/Scripts/Mobiles/AI/AI/PredatorAI.cs
+END
+HealerAI.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/98/trunk/Scripts/Mobiles/AI/AI/HealerAI.cs
+END

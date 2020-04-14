@@ -1,0 +1,47 @@
+##############################
+Log started on 5/1/2010 4:03:03 AM
+
+##############################
+Log started on 5/1/2010 10:41:52 AM
+
+5/1/2010 10:43:04 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add flaming'
+5/1/2010 10:43:07 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (2219, 1202, 0) in Felucca: "FlamingBow"
+5/1/2010 10:43:12 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (2221, 1202, 0) in Felucca: "FlamingSword"
+5/1/2010 10:43:12 AM: 127.0.0.1: Serials: 0x40000082; 
+5/1/2010 10:43:16 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+5/1/2010 10:43:58 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add storm'
+5/1/2010 10:44:00 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (2221, 1202, 0) in Felucca: "StormBreak"
+5/1/2010 10:44:00 AM: 127.0.0.1: Serials: 0x40000084; 
+5/1/2010 10:44:22 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'get hue'
+5/1/2010 10:44:29 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'get hue'
+5/1/2010 10:44:32 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'get hue'
+5/1/2010 10:45:07 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add dreamth'
+5/1/2010 10:45:09 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (2221, 1203, 0) in Felucca: "DreamThief"
+5/1/2010 10:45:09 AM: 127.0.0.1: Serials: 0x400003DD; 
+5/1/2010 10:45:19 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') unhiding 0x1 "Owner Mark [Staff]" ('admin')
+5/1/2010 10:45:19 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Self Unhide'
+5/1/2010 10:45:41 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'set hue 0x7AD'
+5/1/2010 10:45:44 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'hue' of 0x40000082 (FlamingSword) to '1965'
+5/1/2010 10:46:01 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add holy'
+5/1/2010 10:46:03 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (2221, 1207, 0) in Felucca: "HolyAvenger"
+5/1/2010 10:46:03 AM: 127.0.0.1: Serials: 0x400007F9; 
+5/1/2010 10:46:16 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add bla'
+5/1/2010 10:46:25 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (2220, 1206, 0) in Felucca: "BladeOfTheRighteous"
+5/1/2010 10:46:25 AM: 127.0.0.1: Serials: 0x400007FE; 
+5/1/2010 10:46:43 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'get hue'
+5/1/2010 10:47:16 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'set hue 0x47E'
+5/1/2010 10:47:19 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'hue' of 0x400007F9 (HolyAvenger) to '1150'
+5/1/2010 10:47:41 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add illu'
+5/1/2010 10:47:44 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (2221, 1206, 0) in Felucca: "IllusionTwist"
+5/1/2010 10:47:44 AM: 127.0.0.1: Serials: 0x40000804; 
+5/1/2010 10:47:59 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add soul'
+5/1/2010 10:48:04 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add soult'
+5/1/2010 10:48:10 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add dream'
+5/1/2010 10:48:20 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (2221, 1206, 0) in Felucca: "DreamLine"
+5/1/2010 10:48:20 AM: 127.0.0.1: Serials: 0x40000806; 
+5/1/2010 10:49:26 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'get hue'
+5/1/2010 10:49:32 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'set hue 1364'
+5/1/2010 10:49:34 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'hue' of 0x40000806 (DreamLine) to '1364'
+5/1/2010 10:49:42 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'get hue'
+5/1/2010 10:49:50 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'set hue 1266'
+5/1/2010 10:49:53 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'hue' of 0x40000806 (DreamLine) to '1266'

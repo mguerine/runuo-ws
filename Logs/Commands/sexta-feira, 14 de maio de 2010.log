@@ -1,0 +1,109 @@
+##############################
+Log started on 14/05/2010 22:20:31
+
+##############################
+Log started on 14/05/2010 22:29:03
+
+##############################
+Log started on 14/05/2010 22:29:22
+
+##############################
+Log started on 14/05/2010 22:33:26
+
+14/05/2010 22:34:11: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add macead'
+14/05/2010 22:34:20: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4587, 3575, 75) in Felucca: "MaceAndShieldGlasses"
+14/05/2010 22:34:20: 200.181.87.155: Serials: 0x40000013; 
+14/05/2010 22:34:29: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'set hue 1953'
+14/05/2010 22:34:31: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'hue' of 0x40000013 (MaceAndShieldGlasses) to '1953'
+14/05/2010 22:36:38: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'set skillscap 7200'
+14/05/2010 22:36:40: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'skillscap' of 0x4 "Tureco" ('Tureco') to '7200'
+14/05/2010 22:38:00: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'set skillscap 7200'
+14/05/2010 22:38:01: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'skillscap' of 0xB "Seu Jorge" ('mark') to '7200'
+14/05/2010 22:38:57: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'admin '
+14/05/2010 22:39:02: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Blessed' of 0x1 "Owner Mark [Staff]" ('admin') to 'True'
+14/05/2010 22:39:09: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+14/05/2010 22:39:21: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'BonusHits' of ... to '0'
+14/05/2010 22:40:28: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+14/05/2010 22:40:53: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add staffof'
+14/05/2010 22:40:56: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4593, 3570, 85) in Felucca: "StaffOfLaw"
+14/05/2010 22:40:56: 200.181.87.155: Serials: 0x40001958; 
+14/05/2010 22:40:57: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4594, 3571, 75) in Felucca: "StaffOfLaw"
+14/05/2010 22:40:57: 200.181.87.155: Serials: 0x40001959; 
+14/05/2010 22:41:02: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+14/05/2010 22:41:04: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40001958 (StaffOfLaw)
+14/05/2010 22:41:21: 200.181.87.155: Player 0x4 "Tureco" ('Tureco') used command 'ressme '
+14/05/2010 22:46:05: 127.0.0.1: Player 0xB "Seu Jorge" ('mark') used command 'ressme '
+14/05/2010 22:48:17: 200.181.87.155: Player 0x4 "Tureco" ('Tureco') used command 'ressme '
+14/05/2010 22:49:23: 127.0.0.1: Player 0xB "Seu Jorge" ('mark') used command 'ressme '
+14/05/2010 22:52:46: 200.181.87.155: Player 0x4 "Tureco" ('Tureco') used command 'ressme '
+14/05/2010 22:53:36: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+14/05/2010 22:54:03: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'EnergyBonus' of 0x400007D4 (LeatherArms) to '10'
+14/05/2010 22:54:28: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'EnergyBonus' of 0x400007D4 (LeatherArms) to '8'
+14/05/2010 22:54:42: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'EnergyBonus' of 0x400007D4 (LeatherArms) to '6'
+14/05/2010 22:54:56: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'EnergyBonus' of 0x400007D4 (LeatherArms) to '4'
+14/05/2010 22:55:06: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'BonusMana' of ... to '0'
+14/05/2010 22:55:21: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'ColdBonus' of 0x400007D4 (LeatherArms) to '0'
+14/05/2010 22:55:28: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'ColdBonus' of 0x400007D4 (LeatherArms) to '3'
+14/05/2010 22:55:50: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'FireBonus' of 0x400007D4 (LeatherArms) to '0'
+14/05/2010 22:55:59: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'PoisonBonus' of 0x400007D4 (LeatherArms) to '0'
+14/05/2010 22:56:15: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+14/05/2010 22:56:24: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'BonusMana' of ... to '5'
+14/05/2010 22:57:09: 200.181.87.155: Player 0x4 "Tureco" ('Tureco') used command 'ressme '
+14/05/2010 22:58:36: 127.0.0.1: Player 0xB "Seu Jorge" ('mark') used command 'ressme '
+14/05/2010 23:00:45: 200.181.87.155: Player 0x4 "Tureco" ('Tureco') used command 'ressme '
+14/05/2010 23:02:12: 200.181.87.155: Player 0x4 "Tureco" ('Tureco') used command 'ressme '
+14/05/2010 23:03:30: 127.0.0.1: Player 0xB "Seu Jorge" ('mark') used command 'ressme '
+14/05/2010 23:05:28: 200.181.87.155: Player 0x4 "Tureco" ('Tureco') used command 'ressme '
+14/05/2010 23:09:02: 200.181.87.155: Player 0x4 "Tureco" ('Tureco') used command 'ressme '
+14/05/2010 23:10:44: 127.0.0.1: Player 0xB "Seu Jorge" ('mark') used command 'ressme '
+14/05/2010 23:13:06: 200.181.87.155: Player 0x4 "Tureco" ('Tureco') used command 'ressme '
+14/05/2010 23:14:19: 200.181.87.155: Player 0x4 "Tureco" ('Tureco') used command 'ressme '
+14/05/2010 23:15:13: 127.0.0.1: Player 0xB "Seu Jorge" ('mark') used command 'ressme '
+14/05/2010 23:16:03: 200.181.87.155: Player 0x4 "Tureco" ('Tureco') used command 'ressme '
+14/05/2010 23:18:11: 200.181.87.155: Player 0x4 "Tureco" ('Tureco') used command 'ressme '
+14/05/2010 23:18:43: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add dect'
+14/05/2010 23:18:58: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4593, 3575, 75) in Felucca: "DetectiveBoots"
+14/05/2010 23:18:58: 200.181.87.155: Serials: 0x400028D3; 
+14/05/2010 23:19:00: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4593, 3574, 75) in Felucca: "DetectiveBoots"
+14/05/2010 23:19:00: 200.181.87.155: Serials: 0x400028D4; 
+14/05/2010 23:19:03: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4592, 3575, 75) in Felucca: "DetectiveBoots"
+14/05/2010 23:19:03: 200.181.87.155: Serials: 0x400028D6; 
+14/05/2010 23:19:05: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4592, 3573, 75) in Felucca: "DetectiveBoots"
+14/05/2010 23:19:05: 200.181.87.155: Serials: 0x400028D7; 
+14/05/2010 23:19:07: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4593, 3572, 75) in Felucca: "DetectiveBoots"
+14/05/2010 23:19:07: 200.181.87.155: Serials: 0x400028D8; 
+14/05/2010 23:19:09: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4593, 3573, 75) in Felucca: "DetectiveBoots"
+14/05/2010 23:19:09: 200.181.87.155: Serials: 0x400028D9; 
+14/05/2010 23:19:11: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4592, 3572, 75) in Felucca: "DetectiveBoots"
+14/05/2010 23:19:11: 200.181.87.155: Serials: 0x400028DA; 
+14/05/2010 23:19:13: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4594, 3573, 75) in Felucca: "DetectiveBoots"
+14/05/2010 23:19:13: 200.181.87.155: Serials: 0x400028DB; 
+14/05/2010 23:19:14: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4594, 3574, 75) in Felucca: "DetectiveBoots"
+14/05/2010 23:19:14: 200.181.87.155: Serials: 0x400028DC; 
+14/05/2010 23:19:16: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4594, 3575, 75) in Felucca: "DetectiveBoots"
+14/05/2010 23:19:16: 200.181.87.155: Serials: 0x400028DD; 
+14/05/2010 23:19:18: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4592, 3576, 75) in Felucca: "DetectiveBoots"
+14/05/2010 23:19:18: 200.181.87.155: Serials: 0x400028DE; 
+14/05/2010 23:19:20: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4593, 3576, 75) in Felucca: "DetectiveBoots"
+14/05/2010 23:19:20: 200.181.87.155: Serials: 0x400028DF; 
+14/05/2010 23:19:21: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4594, 3576, 75) in Felucca: "DetectiveBoots"
+14/05/2010 23:19:21: 200.181.87.155: Serials: 0x400028E0; 
+14/05/2010 23:19:24: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4595, 3576, 75) in Felucca: "DetectiveBoots"
+14/05/2010 23:19:24: 200.181.87.155: Serials: 0x400028E1; 
+14/05/2010 23:19:26: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4595, 3575, 75) in Felucca: "DetectiveBoots"
+14/05/2010 23:19:26: 200.181.87.155: Serials: 0x400028E2; 
+14/05/2010 23:19:27: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4593, 3574, 75) in Felucca: "DetectiveBoots"
+14/05/2010 23:19:27: 200.181.87.155: Serials: 0x400028E3; 
+14/05/2010 23:19:31: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4592, 3571, 75) in Felucca: "DetectiveBoots"
+14/05/2010 23:19:31: 200.181.87.155: Serials: 0x400028E4; 
+14/05/2010 23:19:32: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4593, 3571, 75) in Felucca: "DetectiveBoots"
+14/05/2010 23:19:32: 200.181.87.155: Serials: 0x400028E5; 
+14/05/2010 23:19:33: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4594, 3571, 75) in Felucca: "DetectiveBoots"
+14/05/2010 23:19:33: 200.181.87.155: Serials: 0x400028E6; 
+14/05/2010 23:19:35: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4595, 3573, 75) in Felucca: "DetectiveBoots"
+14/05/2010 23:19:35: 200.181.87.155: Serials: 0x400028E7; 
+14/05/2010 23:19:37: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4595, 3572, 75) in Felucca: "DetectiveBoots"
+14/05/2010 23:19:37: 200.181.87.155: Serials: 0x400028E8; 
+14/05/2010 23:20:19: 200.181.87.155: Player 0x4 "Tureco" ('Tureco') used command 'ressme '
+14/05/2010 23:20:56: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'set hue 1953'
+14/05/2010 23:20:58: 200.181.87.155: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'hue' of 0x400028E7 (DetectiveBoots) to '1953'

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/101/trunk/Scripts/Spells/Bushido
+END
+Confidence.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/15/trunk/Scripts/Spells/Bushido/Confidence.cs
+END
+HonorableExecution.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/67/trunk/Scripts/Spells/Bushido/HonorableExecution.cs
+END
+SamuraiSpell.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/101/trunk/Scripts/Spells/Bushido/SamuraiSpell.cs
+END
+MomentumStrike.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/15/trunk/Scripts/Spells/Bushido/MomentumStrike.cs
+END
+Evasion.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/65/trunk/Scripts/Spells/Bushido/Evasion.cs
+END
+LightningStrike.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/67/trunk/Scripts/Spells/Bushido/LightningStrike.cs
+END
+CounterAttack.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/15/trunk/Scripts/Spells/Bushido/CounterAttack.cs
+END
+SamuraiMove.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/15/trunk/Scripts/Spells/Bushido/SamuraiMove.cs
+END

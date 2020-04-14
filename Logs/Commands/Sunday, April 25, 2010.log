@@ -1,0 +1,1066 @@
+##############################
+Log started on 4/25/2010 12:05:05 AM
+
+4/25/2010 12:07:01 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'add fuk'
+4/25/2010 12:07:03 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') building at (4588, 3575, 75) in Felucca: "Fukiya"
+4/25/2010 12:07:03 AM: 127.0.0.1: Serials: 0x40000056; 
+4/25/2010 12:07:06 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') building at (4588, 3574, 75) in Felucca: "FukiyaDarts"
+4/25/2010 12:07:06 AM: 127.0.0.1: Serials: 0x40000057; 
+4/25/2010 12:07:11 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'props '
+4/25/2010 12:07:17 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') set property 'Poison' of 0x40000057 (FukiyaDarts) to 'Lethal'
+4/25/2010 12:07:28 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') set property 'UsesRemaining' of 0x40000057 (FukiyaDarts) to '500'
+4/25/2010 12:07:35 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') set property 'PoisonCharges' of 0x40000057 (FukiyaDarts) to '500'
+4/25/2010 12:07:40 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'props '
+4/25/2010 12:08:32 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'add shield'
+4/25/2010 12:08:35 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') building at (4588, 3575, 75) in Felucca: "ArcaneShield"
+4/25/2010 12:08:35 AM: 127.0.0.1: Serials: 0x40000058; 
+4/25/2010 12:09:48 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'save '
+##############################
+Log started on 4/25/2010 12:15:52 AM
+
+4/25/2010 12:16:58 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'setallskills 0'
+4/25/2010 12:17:00 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') set property 'EverySkill.Base' of 0x1 "Owner Mark" ('admin') to '0'
+4/25/2010 12:17:14 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'setskill ninjitsu 120'
+4/25/2010 12:17:15 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') set property 'Ninjitsu.Base' of 0x1 "Owner Mark" ('admin') to '120'
+4/25/2010 12:20:22 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'set '
+4/25/2010 12:20:27 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'props '
+4/25/2010 12:20:41 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') set property 'WeaponDamage' of ... to '80'
+4/25/2010 12:22:12 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'set immortal'
+4/25/2010 12:22:17 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'immortal '
+4/25/2010 12:22:18 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') set property 'blessed' of 0x1 "Owner Mark" ('admin') to 'True'
+4/25/2010 12:22:40 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') used command 'set name "Owner Mark [Staff]"'
+4/25/2010 12:22:41 AM: 127.0.0.1: Owner 0x1 "Owner Mark" ('admin') set property 'name' of 0x1 "Owner Mark" ('admin') to 'Owner Mark [Staff]'
+4/25/2010 12:23:43 AM: 127.0.0.1: Property has been set. (11)
+4/25/2010 12:23:43 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'global set skillscap 7200'
+4/25/2010 12:24:17 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'stone '
+4/25/2010 12:24:19 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'stone '
+4/25/2010 12:24:26 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'stone '
+4/25/2010 12:25:37 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'stone '
+4/25/2010 12:25:46 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 12:35:51 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'dupe '
+4/25/2010 12:35:53 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') duping 0x400025E5 (HeaterShield) (inBag=False; amount=1)
+4/25/2010 12:35:53 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') duped 0x400025E5 (HeaterShield) creating 0x4000185A (HeaterShield)
+4/25/2010 12:36:14 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'setallskills 120'
+4/25/2010 12:36:15 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'EverySkill.Base' of 0x1 "Owner Mark [Staff]" ('admin') to '120'
+4/25/2010 12:41:29 AM: 127.0.0.1: Player 0xB "Seu Jorge" ('mark') used command 'ressme '
+4/25/2010 12:43:22 AM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 12:44:43 AM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 12:45:58 AM: 127.0.0.1: Player 0xB "Seu Jorge" ('mark') used command 'ressme '
+4/25/2010 12:47:00 AM: 127.0.0.1: Player 0xB "Seu Jorge" ('mark') used command 'ressme '
+4/25/2010 12:48:04 AM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 12:50:44 AM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 12:52:43 AM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 12:54:15 AM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 12:57:58 AM: 127.0.0.1: Player 0xB "Seu Jorge" ('mark') used command 'ressme '
+4/25/2010 1:03:37 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'teleport '
+4/25/2010 1:03:47 AM: 127.0.0.1: Property has been set. (11)
+4/25/2010 1:03:47 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'global set skillscap 7200'
+4/25/2010 1:04:21 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+4/25/2010 1:04:24 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40001B18 (Corpse)
+4/25/2010 1:04:26 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+4/25/2010 1:04:28 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40001B89 (Corpse)
+4/25/2010 1:04:28 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+4/25/2010 1:04:29 AM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'help '
+4/25/2010 1:04:29 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+4/25/2010 1:04:29 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40001AA8 (Corpse)
+4/25/2010 1:04:30 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+4/25/2010 1:04:31 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40000F04 (GreaterCurePotion)
+4/25/2010 1:04:31 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+4/25/2010 1:04:32 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40001C8D (Corpse)
+4/25/2010 1:04:36 AM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'help '
+4/25/2010 1:04:40 AM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'helpinfo '
+4/25/2010 1:05:12 AM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'help '
+4/25/2010 1:05:46 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 1:05:50 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 1:06:01 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'WeaponSpeed' of ... to '30'
+4/25/2010 1:07:15 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 1:07:23 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 1:07:44 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'DefendChance' of ... to '10'
+4/25/2010 1:08:13 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'SpellChanneling' of ... to '0'
+4/25/2010 1:08:34 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'HitLightning' of ... to '40'
+4/25/2010 1:08:38 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'HitLeechMana' of ... to '50'
+4/25/2010 1:08:50 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'HitLowerDefend' of ... to '20'
+4/25/2010 1:11:34 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'teleport '
+4/25/2010 1:11:35 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'teleport '
+4/25/2010 1:11:37 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'teleport '
+4/25/2010 1:11:37 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'teleport '
+4/25/2010 1:12:12 AM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 1:13:32 AM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 1:14:28 AM: 127.0.0.1: Player 0x9 "Markola Pop" ('mark') used command 'ressme '
+4/25/2010 1:15:08 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'teleport '
+4/25/2010 1:15:14 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'set skillscap 7200'
+4/25/2010 1:15:16 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'skillscap' of 0x9 "Markola Pop" ('mark') to '7200'
+4/25/2010 1:16:52 AM: 127.0.0.1: Player 0x9 "Markola Pop" ('mark') used command 'ressme '
+4/25/2010 1:17:37 AM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 1:18:53 AM: 127.0.0.1: Player 0x9 "Markola Pop" ('mark') used command 'ressme '
+4/25/2010 1:21:24 AM: 127.0.0.1: Player 0x9 "Markola Pop" ('mark') used command 'ressme '
+4/25/2010 1:23:09 AM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 1:24:59 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add chair'
+4/25/2010 1:25:02 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4590, 3576, 75) in Felucca: "BambooChair"
+4/25/2010 1:25:02 AM: 127.0.0.1: Serials: 0x40001EED; 
+4/25/2010 1:25:06 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 1:25:10 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0xA "Xera Meia" ('juares') to (4593, 3568, 75)
+4/25/2010 1:25:11 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 1:25:13 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0x40001EED (BambooChair) to (4592, 3569, 75)
+4/25/2010 1:25:14 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 1:25:16 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0x40001EED (BambooChair) to (4592, 3568, 75)
+4/25/2010 1:26:02 AM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 1:26:55 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'teleport '
+4/25/2010 1:26:55 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'teleport '
+4/25/2010 1:27:21 AM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 1:28:26 AM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 1:29:18 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'set skillscap 7200'
+4/25/2010 1:29:19 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'skillscap' of 0x3 "Hand of God" ('Tureco') to '7200'
+4/25/2010 1:29:29 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 1:29:35 AM: 189.121.11.9: Player 0xA "Xera Meia" ('juares') used command 'ressme '
+4/25/2010 1:30:51 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'DurabilityLevel' of 0x40001C9B (HammerPick) to 'Indestructible'
+4/25/2010 1:32:39 AM: 189.121.11.9: Player 0xA "Xera Meia" ('juares') used command 'ressme '
+4/25/2010 1:32:56 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'ResistFireBonus' of ... to '0'
+4/25/2010 1:33:03 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'UseBestSkill' of ... to '1'
+4/25/2010 1:33:12 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'HitLightning' of ... to '20'
+4/25/2010 1:34:51 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 1:34:53 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0xA "Xera Meia" ('juares') to (4596, 3566, 85)
+4/25/2010 1:36:34 AM: 127.0.0.1: Player 0x9 "Markola Pop" ('mark') used command 'ressme '
+4/25/2010 1:37:54 AM: 127.0.0.1: Player 0x9 "Markola Pop" ('mark') used command 'ressme '
+4/25/2010 1:39:31 AM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 1:40:16 AM: 189.121.11.9: Player 0xA "Xera Meia" ('juares') used command 'ressme '
+4/25/2010 1:42:14 AM: 189.121.11.9: Player 0xA "Xera Meia" ('juares') used command 'ressme '
+4/25/2010 1:43:06 AM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 1:44:32 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 1:44:33 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0xA "Xera Meia" ('juares') to (4588, 3568, 75)
+4/25/2010 1:44:35 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'admin '
+4/25/2010 1:44:46 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') killing 0xA "Xera Meia" ('juares')
+4/25/2010 1:44:49 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') resurrecting 0xA "Xera Meia" ('juares')
+4/25/2010 1:44:49 AM: 189.121.11.9: Player 0xA "Xera Meia" ('juares') used command 'ressme '
+4/25/2010 1:44:50 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') killing 0xA "Xera Meia" ('juares')
+4/25/2010 1:44:52 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') resurrecting 0xA "Xera Meia" ('juares')
+4/25/2010 1:44:58 AM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 1:46:46 AM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 1:48:28 AM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 1:49:58 AM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 1:51:28 AM: 127.0.0.1: Player 0x9 "Markola Pop" ('mark') used command 'ressme '
+4/25/2010 1:52:11 AM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 1:53:46 AM: 127.0.0.1: Player 0x9 "Markola Pop" ('mark') used command 'ressme '
+4/25/2010 1:54:06 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add apple'
+4/25/2010 1:54:11 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add crim'
+4/25/2010 1:54:23 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4590, 3575, 75) in Felucca: "EnchantedApple"
+4/25/2010 1:54:23 AM: 200.163.15.120: Serials: 0x40002695; 
+4/25/2010 1:54:23 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4590, 3575, 75) in Felucca: "EnchantedApple"
+4/25/2010 1:54:23 AM: 200.163.15.120: Serials: 0x40002696; 
+4/25/2010 1:54:24 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4590, 3575, 75) in Felucca: "EnchantedApple"
+4/25/2010 1:54:24 AM: 200.163.15.120: Serials: 0x40002697; 
+4/25/2010 1:54:26 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4596, 3572, 75) in Felucca: "EnchantedApple"
+4/25/2010 1:54:26 AM: 200.163.15.120: Serials: 0x40002698; 
+4/25/2010 1:54:26 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4596, 3572, 75) in Felucca: "EnchantedApple"
+4/25/2010 1:54:26 AM: 200.163.15.120: Serials: 0x40002699; 
+4/25/2010 1:54:26 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4596, 3572, 75) in Felucca: "EnchantedApple"
+4/25/2010 1:54:26 AM: 200.163.15.120: Serials: 0x4000269A; 
+4/25/2010 1:54:27 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4596, 3572, 75) in Felucca: "EnchantedApple"
+4/25/2010 1:54:27 AM: 200.163.15.120: Serials: 0x4000269B; 
+4/25/2010 1:54:27 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4596, 3572, 75) in Felucca: "EnchantedApple"
+4/25/2010 1:54:27 AM: 200.163.15.120: Serials: 0x4000269C; 
+4/25/2010 1:54:27 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4596, 3572, 75) in Felucca: "EnchantedApple"
+4/25/2010 1:54:27 AM: 200.163.15.120: Serials: 0x4000269D; 
+4/25/2010 1:54:28 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4596, 3571, 75) in Felucca: "EnchantedApple"
+4/25/2010 1:54:28 AM: 200.163.15.120: Serials: 0x4000269E; 
+4/25/2010 1:54:28 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4596, 3571, 75) in Felucca: "EnchantedApple"
+4/25/2010 1:54:28 AM: 200.163.15.120: Serials: 0x4000269F; 
+4/25/2010 1:54:29 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4595, 3571, 75) in Felucca: "EnchantedApple"
+4/25/2010 1:54:29 AM: 200.163.15.120: Serials: 0x400026A0; 
+4/25/2010 1:54:29 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4595, 3572, 75) in Felucca: "EnchantedApple"
+4/25/2010 1:54:29 AM: 200.163.15.120: Serials: 0x400026A1; 
+4/25/2010 1:54:30 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4594, 3572, 75) in Felucca: "EnchantedApple"
+4/25/2010 1:54:30 AM: 200.163.15.120: Serials: 0x400026A3; 
+4/25/2010 1:54:31 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4594, 3571, 75) in Felucca: "EnchantedApple"
+4/25/2010 1:54:31 AM: 200.163.15.120: Serials: 0x400026A4; 
+4/25/2010 1:55:19 AM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 1:57:13 AM: 127.0.0.1: Player 0x9 "Markola Pop" ('mark') used command 'ressme '
+4/25/2010 1:58:22 AM: 127.0.0.1: Player 0x9 "Markola Pop" ('mark') used command 'ressme '
+4/25/2010 1:59:23 AM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 2:00:31 AM: 127.0.0.1: Player 0x9 "Markola Pop" ('mark') used command 'ressme '
+4/25/2010 2:01:42 AM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 2:04:19 AM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 2:05:33 AM: 127.0.0.1: Player 0x9 "Markola Pop" ('mark') used command 'ressme '
+4/25/2010 2:06:30 AM: 127.0.0.1: Player 0x9 "Markola Pop" ('mark') used command 'ressme '
+4/25/2010 2:07:21 AM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 2:08:19 AM: 127.0.0.1: Player 0x9 "Markola Pop" ('mark') used command 'ressme '
+4/25/2010 2:10:21 AM: 127.0.0.1: Player 0x9 "Markola Pop" ('mark') used command 'ressme '
+4/25/2010 2:12:37 AM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 2:13:54 AM: 127.0.0.1: Player 0x9 "Markola Pop" ('mark') used command 'ressme '
+4/25/2010 2:16:57 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 2:17:13 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'HitLowerDefend' of ... to '0'
+4/25/2010 2:17:23 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 2:17:37 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'HitLightning' of ... to '0'
+4/25/2010 2:20:24 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'speedboost '
+4/25/2010 2:22:16 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 2:22:19 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0x3 "Hand of God" ('Tureco') to (4589, 3549, 30)
+4/25/2010 2:22:28 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add cri'
+4/25/2010 2:22:32 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4585, 3569, 75) in Felucca: "CrimsonDragon"
+4/25/2010 2:22:32 AM: 200.163.15.120: Serials: 0x8; 
+4/25/2010 2:22:34 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') hiding 0x1 "Owner Mark [Staff]" ('admin')
+4/25/2010 2:22:34 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Self Hide'
+4/25/2010 2:22:47 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'kill '
+4/25/2010 2:22:48 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') killing 0x8 "a crimson dragon" (no account)
+4/25/2010 2:23:01 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') unhiding 0x1 "Owner Mark [Staff]" ('admin')
+4/25/2010 2:23:01 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Self Unhide'
+4/25/2010 2:23:05 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'admin '
+4/25/2010 2:23:09 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') resurrecting 0x6 "Pau no tureco" ('teste1')
+4/25/2010 2:23:29 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+4/25/2010 2:23:30 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40002D96 (Gold)
+4/25/2010 2:23:31 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+4/25/2010 2:23:32 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40002D7F (Gold)
+4/25/2010 2:23:33 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+4/25/2010 2:23:33 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40002E33 (Gold)
+4/25/2010 2:23:35 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+4/25/2010 2:23:35 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40002E2C (Gold)
+4/25/2010 2:23:37 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+4/25/2010 2:23:39 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40002D91 (Gold)
+4/25/2010 2:23:47 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'M Tele'
+4/25/2010 2:23:54 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+4/25/2010 2:23:56 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40002D76 (Corpse)
+4/25/2010 2:23:59 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 2:24:01 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0x3 "Hand of God" ('Tureco') to (4589, 3568, 75)
+4/25/2010 2:24:17 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+4/25/2010 2:24:18 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40002E3C (Gold)
+4/25/2010 2:24:49 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+4/25/2010 2:24:50 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40002D7E (Gold)
+4/25/2010 2:25:17 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+4/25/2010 2:25:18 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40002DD1 (Gold)
+4/25/2010 2:25:26 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 2:25:30 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'M Tele'
+4/25/2010 2:25:43 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 2:25:49 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0x6 "Pau no tureco" ('teste1') to (4602, 3569, 112)
+4/25/2010 2:25:58 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 2:26:00 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0x6 "Pau no tureco" ('teste1') to (4591, 3571, 85)
+4/25/2010 2:26:02 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 2:26:13 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0x3 "Hand of God" ('Tureco') to (4600, 3568, 75)
+4/25/2010 2:26:15 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 2:26:16 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0x3 "Hand of God" ('Tureco') to (4597, 3567, 75)
+4/25/2010 2:26:24 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') unhiding 0x1 "Owner Mark [Staff]" ('admin')
+4/25/2010 2:26:24 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Self Unhide'
+4/25/2010 2:26:25 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') unhiding 0x1 "Owner Mark [Staff]" ('admin')
+4/25/2010 2:26:25 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Self Unhide'
+4/25/2010 2:26:25 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') unhiding 0x1 "Owner Mark [Staff]" ('admin')
+4/25/2010 2:26:25 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Self Unhide'
+4/25/2010 2:26:25 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') unhiding 0x1 "Owner Mark [Staff]" ('admin')
+4/25/2010 2:26:25 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Self Unhide'
+4/25/2010 2:26:25 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') unhiding 0x1 "Owner Mark [Staff]" ('admin')
+4/25/2010 2:26:25 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Self Unhide'
+4/25/2010 2:26:26 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') unhiding 0x1 "Owner Mark [Staff]" ('admin')
+4/25/2010 2:26:26 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Self Unhide'
+4/25/2010 2:26:26 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') unhiding 0x1 "Owner Mark [Staff]" ('admin')
+4/25/2010 2:26:26 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Self Unhide'
+4/25/2010 2:26:26 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') unhiding 0x1 "Owner Mark [Staff]" ('admin')
+4/25/2010 2:26:27 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Self Unhide'
+4/25/2010 2:26:27 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') unhiding 0x1 "Owner Mark [Staff]" ('admin')
+4/25/2010 2:26:27 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Self Unhide'
+4/25/2010 2:26:27 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') unhiding 0x1 "Owner Mark [Staff]" ('admin')
+4/25/2010 2:26:27 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Self Unhide'
+4/25/2010 2:26:28 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') unhiding 0x1 "Owner Mark [Staff]" ('admin')
+4/25/2010 2:26:28 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Self Unhide'
+4/25/2010 2:26:28 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') unhiding 0x1 "Owner Mark [Staff]" ('admin')
+4/25/2010 2:26:28 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Self Unhide'
+4/25/2010 2:26:31 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') hiding 0x1 "Owner Mark [Staff]" ('admin')
+4/25/2010 2:26:31 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Self Hide'
+4/25/2010 2:26:31 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') hiding 0x1 "Owner Mark [Staff]" ('admin')
+4/25/2010 2:26:31 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Self Hide'
+4/25/2010 2:26:32 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') hiding 0x1 "Owner Mark [Staff]" ('admin')
+4/25/2010 2:26:32 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Self Hide'
+4/25/2010 2:26:32 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') hiding 0x1 "Owner Mark [Staff]" ('admin')
+4/25/2010 2:26:32 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Self Hide'
+4/25/2010 2:26:33 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') hiding 0x1 "Owner Mark [Staff]" ('admin')
+4/25/2010 2:26:33 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Self Hide'
+4/25/2010 2:26:33 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') hiding 0x1 "Owner Mark [Staff]" ('admin')
+4/25/2010 2:26:33 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Self Hide'
+4/25/2010 2:26:36 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') unhiding 0x1 "Owner Mark [Staff]" ('admin')
+4/25/2010 2:26:36 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Self Unhide'
+4/25/2010 2:27:25 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1953'
+4/25/2010 2:27:28 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x6 "Pau no tureco" ('teste1') to '1953'
+4/25/2010 2:27:51 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1939'
+4/25/2010 2:27:52 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x6 "Pau no tureco" ('teste1') to '1939'
+4/25/2010 2:28:13 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1947'
+4/25/2010 2:28:15 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x40002CF3 (CrimsonCincture) to '1947'
+4/25/2010 2:28:19 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1947'
+4/25/2010 2:28:20 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x40002D00 (RuneBeetleCarapace) to '1947'
+4/25/2010 2:28:21 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1947'
+4/25/2010 2:28:22 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x40002CD0 (InquisitorsResolution) to '1947'
+4/25/2010 2:28:24 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1947'
+4/25/2010 2:28:25 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x40002CEC (QuiverOfInfinity) to '1947'
+4/25/2010 2:28:26 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1947'
+4/25/2010 2:28:26 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x40002CEF (ConjurersTrinket) to '1947'
+4/25/2010 2:28:27 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1947'
+4/25/2010 2:28:28 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x6 "Pau no tureco" ('teste1') to '1947'
+4/25/2010 2:31:17 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 2:36:02 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'kill '
+4/25/2010 2:36:03 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') killing 0xC "Pau no turequin" ('teste2')
+4/25/2010 2:36:05 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'staffrunebook '
+4/25/2010 2:36:07 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'admin '
+4/25/2010 2:36:10 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') resurrecting 0xC "Pau no turequin" ('teste2')
+4/25/2010 2:36:20 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 2:39:26 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add barbed sleeves'
+4/25/2010 2:40:13 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'speedboost '
+4/25/2010 2:40:21 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 2:40:35 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'LowerRegCost' of ... to '0'
+4/25/2010 2:40:42 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'NightSight' of ... to '0'
+4/25/2010 2:40:47 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Luck' of ... to '0'
+4/25/2010 2:41:01 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Crafter' of 0x40002EB9 (LeatherArms) to '0x1 "Owner Mark [Staff]"'
+4/25/2010 2:41:28 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+4/25/2010 2:41:29 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40002EB5 (Corpse)
+4/25/2010 2:41:30 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+4/25/2010 2:41:31 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40001E67 (Bottle)
+4/25/2010 2:41:32 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+4/25/2010 2:41:32 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40001D55 (Bottle)
+4/25/2010 2:41:34 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+4/25/2010 2:41:35 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x400021A9 (Bottle)
+4/25/2010 2:41:36 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+4/25/2010 2:41:36 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x4000285B (Bottle)
+4/25/2010 2:41:38 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+4/25/2010 2:41:38 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40002E62 (BarbedLeather)
+4/25/2010 2:41:39 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+4/25/2010 2:41:40 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40002E45 (Scissors)
+4/25/2010 2:41:41 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+4/25/2010 2:41:42 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40002E46 (RuneBlade)
+4/25/2010 2:41:46 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+4/25/2010 2:41:47 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40002E43 (MaleElvenRobe)
+4/25/2010 2:41:48 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+4/25/2010 2:41:49 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40002E47 (RuneBlade)
+4/25/2010 2:41:53 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+4/25/2010 2:41:54 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40002C91 (Bandage)
+4/25/2010 2:43:05 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'dupe '
+4/25/2010 2:43:06 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') duping 0x400025E5 (HeaterShield) (inBag=False; amount=1)
+4/25/2010 2:43:06 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') duped 0x400025E5 (HeaterShield) creating 0x40002EBA (HeaterShield)
+4/25/2010 2:43:20 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1947'
+4/25/2010 2:43:22 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x40002EBA (HeaterShield) to '1947'
+4/25/2010 2:44:00 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 2:44:01 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0xA "Xera Meia" ('juares') to (4595, 3573, 75)
+4/25/2010 2:44:03 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 2:44:12 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 2:44:14 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0xA "Xera Meia" ('juares') to (4592, 3574, 75)
+4/25/2010 2:44:15 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 2:44:22 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 2:44:25 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0xA "Xera Meia" ('juares') to (4602, 3572, 75)
+4/25/2010 2:44:27 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 2:44:29 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0xA "Xera Meia" ('juares') to (4602, 3569, 112)
+4/25/2010 2:44:32 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 2:44:35 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0xA "Xera Meia" ('juares') to (4602, 3569, 112)
+4/25/2010 2:44:36 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 2:44:39 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0xA "Xera Meia" ('juares') to (4594, 3569, 75)
+4/25/2010 2:44:41 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 2:45:31 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'PoisonBonus' of 0x40002EBA (HeaterShield) to '10'
+4/25/2010 2:45:46 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'PoisonBonus' of 0x40002EBA (HeaterShield) to '7'
+4/25/2010 2:47:55 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 2:47:58 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0xC "Pau no turequin" ('teste2') to (4598, 3569, 75)
+4/25/2010 2:48:05 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 2:48:26 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'HitLowerDefend' of ... to '0'
+4/25/2010 2:48:39 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 2:49:08 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 2:49:30 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'PhysicalBonus' of 0x40002EB9 (LeatherArms) to '5'
+4/25/2010 2:49:53 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 2:50:27 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'FireBonus' of 0x40002EB9 (LeatherArms) to '16'
+4/25/2010 2:51:33 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'PoisonBonus' of 0x40002EB9 (LeatherArms) to '5'
+4/25/2010 2:51:40 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'PoisonBonus' of 0x40002EB9 (LeatherArms) to '7'
+4/25/2010 2:51:57 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 2:52:09 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'BonusMana' of ... to '7'
+4/25/2010 2:52:20 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'RegenMana' of ... to '2'
+4/25/2010 2:52:31 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 2:52:43 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'ReflectPhysical' of ... to '15'
+4/25/2010 2:53:54 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'PoisonBonus' of 0x40002EB9 (LeatherArms) to '11'
+4/25/2010 2:55:30 AM: 189.121.11.9: Player 0xA "Xera Meia" ('juares') used command 'ressme '
+4/25/2010 2:56:21 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add bracelet'
+4/25/2010 2:56:34 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4587, 3575, 75) in Felucca: "GoldBracelet"
+4/25/2010 2:56:34 AM: 200.163.15.120: Serials: 0x40002F08; 
+4/25/2010 2:57:00 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 2:57:09 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'AttackChance' of ... to '10'
+4/25/2010 2:57:40 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'BonusDex' of ... to '8'
+4/25/2010 2:57:53 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'BonusStr' of ... to '8'
+4/25/2010 2:58:14 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'RegenMana' of ... to '2'
+4/25/2010 2:58:37 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'admin '
+4/25/2010 2:59:17 AM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 3:00:31 AM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 3:01:49 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 3:01:50 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0xA "Xera Meia" ('juares') to (4599, 3574, 76)
+4/25/2010 3:03:08 AM: 189.121.11.9: Player 0xA "Xera Meia" ('juares') used command 'ressme '
+4/25/2010 3:05:12 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add kryss'
+4/25/2010 3:05:13 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (2221, 1205, 0) in Felucca: "kryss"
+4/25/2010 3:05:13 AM: 200.163.15.120: Serials: 0x40002FE3; 
+4/25/2010 3:05:21 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 3:05:55 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'MaxDamage' of 0x40002FE3 (Kryss) to '16'
+4/25/2010 3:06:10 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'MinDamage' of 0x40002FE3 (Kryss) to '14'
+4/25/2010 3:06:26 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'LowerManaCost' of ... to '8'
+4/25/2010 3:06:45 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'WeaponDamage' of ... to '50'
+4/25/2010 3:07:05 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'BonusMana' of ... to '10'
+4/25/2010 3:07:19 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'RegenMana' of ... to '2'
+4/25/2010 3:07:27 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'WeaponSpeed' of ... to '20'
+4/25/2010 3:09:43 AM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 3:10:17 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'HitLowerDefend' of ... to '30'
+4/25/2010 3:10:22 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'HitLeechMana' of ... to '50'
+4/25/2010 3:10:45 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'WeaponDamage' of ... to '40'
+4/25/2010 3:11:39 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Name' of 0x40002FE3 (Kryss) to 'Soul Thief'
+4/25/2010 3:12:07 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1941'
+4/25/2010 3:12:08 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x40002FE3 (Kryss) to '1941'
+4/25/2010 3:12:16 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'dupe '
+4/25/2010 3:12:18 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') duping 0x40002FE3 (Kryss) (inBag=False; amount=1)
+4/25/2010 3:12:18 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') duped 0x40002FE3 (Kryss) creating 0x40002FEE (Kryss)
+4/25/2010 3:12:20 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'dupe '
+4/25/2010 3:12:21 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') duping 0x40002FE3 (Kryss) (inBag=False; amount=1)
+4/25/2010 3:12:21 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') duped 0x40002FE3 (Kryss) creating 0x40002FEF (Kryss)
+4/25/2010 3:12:22 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'dupe '
+4/25/2010 3:12:24 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') duping 0x40002FE3 (Kryss) (inBag=False; amount=1)
+4/25/2010 3:12:24 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') duped 0x40002FE3 (Kryss) creating 0x40002FF0 (Kryss)
+4/25/2010 3:13:48 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 3:14:05 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'WeaponDamage' of ... to '20'
+4/25/2010 3:14:09 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'RegenMana' of ... to '0'
+4/25/2010 3:14:18 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'LowerManaCost' of ... to '5'
+4/25/2010 3:15:01 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 3:15:43 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'RawName' of 0xC "Pau no turequin" ('teste2') to 'Naz'
+4/25/2010 3:16:05 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 3:16:07 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0xC "Naz" ('teste2') to (4599, 3574, 76)
+4/25/2010 3:16:54 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+4/25/2010 3:16:56 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40002FE6 (Corpse)
+4/25/2010 3:16:58 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+4/25/2010 3:16:58 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40002FDF (Corpse)
+4/25/2010 3:17:00 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+4/25/2010 3:17:00 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40002C4F (Bottle)
+4/25/2010 3:17:02 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+4/25/2010 3:17:02 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40002E60 (RunicSewingKit)
+4/25/2010 3:17:30 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'set skillscap 7200'
+4/25/2010 3:17:31 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'skillscap' of 0xC "Naz" ('teste2') to '7200'
+4/25/2010 3:18:47 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1953'
+4/25/2010 3:18:55 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1952'
+4/25/2010 3:18:56 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400000C3 (EtherealHorse) to '1952'
+4/25/2010 3:20:29 AM: 201.94.163.135: Player 0xC "Naz" ('teste2') used command 'ressme '
+4/25/2010 3:24:43 AM: 201.94.163.135: Player 0xC "Naz" ('teste2') used command 'ressme '
+4/25/2010 3:26:26 AM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 3:27:58 AM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 3:28:59 AM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 3:29:51 AM: 189.121.11.9: Player 0xA "Xera Meia" ('juares') used command 'ressme '
+4/25/2010 3:30:44 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 3:30:46 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 3:30:47 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0x3 "Hand of God" ('Tureco') to (4592, 3574, 75)
+4/25/2010 3:31:18 AM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 3:36:26 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'set skillscap 7200'
+4/25/2010 3:36:28 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'skillscap' of 0xA "Xera Meia" ('juares') to '7200'
+4/25/2010 3:36:48 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 3:37:11 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'DefendChance' of ... to '10'
+4/25/2010 3:37:38 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'admin '
+4/25/2010 3:37:51 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'admin '
+4/25/2010 3:38:38 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'admin '
+4/25/2010 3:39:36 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'HitLeechMana' of ... to '50'
+4/25/2010 3:39:44 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'UseBestSkill' of ... to '1'
+4/25/2010 3:39:57 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'ResistPhysicalBonus' of ... to '0'
+4/25/2010 3:40:17 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 3:41:15 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'SpellChanneling' of ... to '0'
+4/25/2010 3:42:24 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'set statscap 255'
+4/25/2010 3:42:31 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 3:47:46 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add bracelet'
+4/25/2010 3:47:49 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4589, 3570, 75) in Felucca: "GoldBracelet"
+4/25/2010 3:47:49 AM: 200.163.15.120: Serials: 0x40003278; 
+4/25/2010 3:48:01 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'go '
+4/25/2010 3:48:03 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 3:48:10 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'M Tele'
+4/25/2010 3:48:23 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 3:48:44 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'DefendChance' of ... to '13'
+4/25/2010 3:48:54 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'BonusInt' of ... to '8'
+4/25/2010 3:49:44 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Physical' of ... to '4'
+4/25/2010 3:50:00 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Fire' of ... to '4'
+4/25/2010 3:50:40 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add '
+4/25/2010 3:51:02 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add crim'
+4/25/2010 3:51:15 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4590, 3570, 75) in Felucca: "RewardRobe"
+4/25/2010 3:51:15 AM: 200.163.15.120: Serials: 0x4000327B; 
+4/25/2010 3:51:33 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add ring'
+4/25/2010 3:51:52 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4590, 3569, 75) in Felucca: "GoldRing"
+4/25/2010 3:51:52 AM: 200.163.15.120: Serials: 0x4000327C; 
+4/25/2010 3:51:57 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 3:52:00 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add ringfala'
+4/25/2010 3:52:24 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'DefendChance' of ... to '13'
+4/25/2010 3:52:33 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'AttackChance' of ... to '4'
+4/25/2010 3:52:57 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'BonusInt' of ... to '4'
+4/25/2010 3:53:06 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Energy' of ... to '5'
+4/25/2010 3:53:45 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 3:54:46 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'RegenStam' of ... to '0'
+4/25/2010 3:54:50 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'RegenMana' of ... to '0'
+4/25/2010 3:54:53 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'RegenHits' of ... to '0'
+4/25/2010 3:55:31 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'PhysicalBonus' of 0x400036EF (LeatherArms) to '15'
+4/25/2010 3:55:46 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'PhysicalBonus' of 0x400036EF (LeatherArms) to '3'
+4/25/2010 3:55:53 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'PhysicalBonus' of 0x400036EF (LeatherArms) to '2'
+4/25/2010 3:56:15 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'FireBonus' of 0x400036EF (LeatherArms) to '14'
+4/25/2010 3:56:30 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'ColdBonus' of 0x400036EF (LeatherArms) to '4'
+4/25/2010 3:56:49 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'PoisonBonus' of 0x400036EF (LeatherArms) to '0'
+4/25/2010 3:57:08 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'PoisonBonus' of 0x400036EF (LeatherArms) to '1'
+4/25/2010 3:57:26 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'EnergyBonus' of 0x400036EF (LeatherArms) to '11'
+4/25/2010 3:58:21 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 3:58:33 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'DefendChance' of ... to '14'
+4/25/2010 3:58:49 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'CastSpeed' of ... to '1'
+4/25/2010 3:59:00 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'AttackChance' of ... to '11'
+4/25/2010 3:59:34 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'FireBonus' of 0x400037DE (OrderShield) to '5'
+4/25/2010 3:59:42 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'ColdBonus' of 0x400037DE (OrderShield) to '1'
+4/25/2010 3:59:59 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'EnergyBonus' of 0x400037DE (OrderShield) to '1'
+4/25/2010 4:00:05 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'PoisonBonus' of 0x400037DE (OrderShield) to '1'
+4/25/2010 4:02:36 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') hiding 0x1 "Owner Mark [Staff]" ('admin')
+4/25/2010 4:02:36 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Self Hide'
+4/25/2010 4:02:36 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') hiding 0x1 "Owner Mark [Staff]" ('admin')
+4/25/2010 4:02:36 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Self Hide'
+4/25/2010 4:02:37 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') hiding 0x1 "Owner Mark [Staff]" ('admin')
+4/25/2010 4:02:37 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Self Hide'
+4/25/2010 4:02:44 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') unhiding 0x1 "Owner Mark [Staff]" ('admin')
+4/25/2010 4:02:44 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Self Unhide'
+4/25/2010 4:02:45 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'admin '
+4/25/2010 4:02:51 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Blessed' of 0x1 "Owner Mark [Staff]" ('admin') to 'False'
+4/25/2010 4:03:46 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 4:04:00 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'BonusDex' of ... to '145'
+4/25/2010 4:06:29 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'admin '
+4/25/2010 4:06:33 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Blessed' of 0x1 "Owner Mark [Staff]" ('admin') to 'True'
+4/25/2010 4:06:38 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Squelched' of 0x1 "Owner Mark [Staff]" ('admin') to 'True'
+4/25/2010 4:06:43 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Squelched' of 0x1 "Owner Mark [Staff]" ('admin') to 'False'
+4/25/2010 4:07:33 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 4:07:40 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 4:07:53 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'EnergyBonus' of 0x400026B3 (LeatherLegs) to '9'
+4/25/2010 4:08:00 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'FireBonus' of 0x400026B3 (LeatherLegs) to '15'
+4/25/2010 4:08:57 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 4:09:17 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 4:09:27 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Poison' of ... to '0'
+4/25/2010 4:09:45 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'DefendChance' of ... to '10'
+4/25/2010 4:09:51 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'WeaponDamage' of ... to '20'
+4/25/2010 4:10:06 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'admin '
+4/25/2010 4:10:09 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Blessed' of 0x1 "Owner Mark [Staff]" ('admin') to 'False'
+4/25/2010 4:10:31 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 4:10:37 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 4:10:52 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'BonusHits' of ... to '500'
+4/25/2010 4:11:18 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'staffrunebook '
+4/25/2010 4:16:40 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'ressme '
+4/25/2010 4:16:43 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'ressme '
+4/25/2010 4:16:45 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'admin '
+4/25/2010 4:16:53 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') resurrecting 0x1 "Owner Mark [Staff]" ('admin')
+4/25/2010 4:16:55 AM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Blessed' of 0x1 "Owner Mark [Staff]" ('admin') to 'True'
+4/25/2010 12:34:09 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'skillscap' of 0x1 "Owner Mark [Staff]" ('admin') to '7200'
+4/25/2010 12:34:09 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'skillscap' of 0x2 "TamireS" ('carlos') to '7200'
+4/25/2010 12:34:09 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'skillscap' of 0x4 "Tureco" ('Tureco') to '7200'
+4/25/2010 12:34:09 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'skillscap' of 0xB "Seu Jorge" ('mark') to '7200'
+4/25/2010 12:34:09 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'skillscap' of 0x3 "Hand of God" ('Tureco') to '7200'
+4/25/2010 12:34:09 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'skillscap' of 0x7 "Julio Baptista" ('mark') to '7200'
+4/25/2010 12:34:09 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'skillscap' of 0xA "Xera Meia" ('juares') to '7200'
+4/25/2010 12:34:09 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'skillscap' of 0x9 "Markola Pop" ('mark') to '7200'
+4/25/2010 12:34:09 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'skillscap' of 0x6 "Pau no tureco" ('teste1') to '7200'
+4/25/2010 12:34:09 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'skillscap' of 0xC "Naz" ('teste2') to '7200'
+4/25/2010 12:34:09 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'global set skillscap 7200 where playermobile'
+##############################
+Log started on 4/25/2010 1:24:32 PM
+
+##############################
+Log started on 4/25/2010 1:38:11 PM
+
+4/25/2010 1:45:20 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'speedboost '
+4/25/2010 1:45:26 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+##############################
+Log started on 4/25/2010 1:57:57 PM
+
+4/25/2010 1:58:38 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 2:05:38 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'admin '
+4/25/2010 2:06:07 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'skills '
+4/25/2010 2:06:11 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'skills '
+4/25/2010 2:06:12 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'skills '
+4/25/2010 2:06:14 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'skills '
+4/25/2010 2:06:27 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'dupeinbag '
+4/25/2010 2:06:57 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add fir'
+4/25/2010 2:07:07 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (2224, 1204, 0) in Felucca: "FirstStone"
+4/25/2010 2:07:07 PM: 127.0.0.1: Serials: 0x400018DC; 
+##############################
+Log started on 4/25/2010 2:16:27 PM
+
+4/25/2010 2:18:02 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'kill '
+4/25/2010 2:18:24 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'mortal '
+4/25/2010 2:18:25 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'blessed' of 0x1 "Owner Mark [Staff]" ('admin') to 'False'
+4/25/2010 2:18:37 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'ressme '
+##############################
+Log started on 4/25/2010 2:46:05 PM
+
+4/25/2010 2:47:42 PM: 127.0.0.1: Crafting 0x400018DF (Buckler) with craft system DefBlacksmithy
+4/25/2010 2:47:50 PM: 127.0.0.1: Crafting 0x400018E0 (BronzeShield) with craft system DefBlacksmithy
+##############################
+Log started on 4/25/2010 2:58:37 PM
+
+4/25/2010 2:59:24 PM: 127.0.0.1: Crafting 0x400018E1 (Buckler) with craft system DefBlacksmithy
+4/25/2010 2:59:30 PM: 127.0.0.1: Crafting 0x400018E2 (BronzeShield) with craft system DefBlacksmithy
+4/25/2010 3:00:07 PM: 127.0.0.1: Crafting 0x400018E3 (ChainCoif) with craft system DefBlacksmithy
+4/25/2010 3:00:17 PM: 127.0.0.1: Crafting 0x400018E4 (PlateGorget) with craft system DefBlacksmithy
+4/25/2010 3:01:14 PM: 127.0.0.1: Crafting 0x400018E6 (LeatherCap) with craft system DefTailoring
+4/25/2010 3:01:24 PM: 127.0.0.1: Crafting 0x400018E7 (LeatherArms) with craft system DefTailoring
+4/25/2010 3:01:35 PM: 127.0.0.1: Crafting 0x400018E8 (LeatherLegs) with craft system DefTailoring
+##############################
+Log started on 4/25/2010 4:05:22 PM
+
+##############################
+Log started on 4/25/2010 4:19:25 PM
+
+4/25/2010 4:20:43 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'teleport '
+4/25/2010 4:20:43 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'teleport '
+4/25/2010 4:20:45 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'mortal '
+4/25/2010 4:20:47 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'blessed' of 0xB "Seu Jorge" ('mark') to 'False'
+4/25/2010 4:20:48 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'mortal '
+4/25/2010 4:20:49 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'blessed' of 0x1 "Owner Mark [Staff]" ('admin') to 'False'
+4/25/2010 4:21:01 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add drea'
+4/25/2010 4:21:07 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4587, 3573, 75) in Felucca: "DreamThief"
+4/25/2010 4:21:07 PM: 127.0.0.1: Serials: 0x400018E9; 
+4/25/2010 5:07:03 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'set skillscap 7200'
+4/25/2010 5:07:04 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'skillscap' of 0xC "Naz" ('teste2') to '7200'
+4/25/2010 5:09:35 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 5:11:24 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 5:11:28 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0x40002EBA (HeaterShield) to (4589, 3574, 75)
+4/25/2010 5:11:33 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'M Tele'
+4/25/2010 5:11:41 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 5:11:44 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0x40002EB9 (LeatherArms) to (4592, 3567, 75)
+4/25/2010 5:13:13 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'admin '
+4/25/2010 5:13:42 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'admin '
+4/25/2010 5:13:55 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'admin '
+4/25/2010 5:14:07 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'admin '
+4/25/2010 5:14:13 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 5:14:15 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0x400037DD (TrashBarrel) to (4594, 3564, 85)
+4/25/2010 5:14:17 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 5:14:20 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0x400037DD (TrashBarrel) to (4593, 3568, 75)
+4/25/2010 5:14:22 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 5:14:25 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0x400019B3 (Corpse) to (4589, 3571, 75)
+4/25/2010 5:14:27 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 5:14:31 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0x400019B3 (Corpse) to (4590, 3564, 75)
+4/25/2010 5:17:59 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'admin '
+4/25/2010 5:18:02 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Blessed' of 0x1 "Owner Mark [Staff]" ('admin') to 'True'
+4/25/2010 5:19:57 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'M Tele'
+4/25/2010 5:27:09 PM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 5:27:42 PM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 5:35:32 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 5:35:53 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'CastSpeed' of ... to '0'
+4/25/2010 5:36:04 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'SpellChanneling' of ... to '1'
+4/25/2010 5:38:14 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'speedboost '
+4/25/2010 5:38:19 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'speedboost '
+4/25/2010 5:38:19 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'speedboost '
+4/25/2010 5:38:20 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'speedboost '
+4/25/2010 5:38:20 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'speedboost '
+4/25/2010 5:38:29 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'M Tele'
+4/25/2010 5:41:50 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'admin '
+4/25/2010 5:41:57 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Blessed' of 0x1 "Owner Mark [Staff]" ('admin') to 'False'
+4/25/2010 5:44:29 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 5:44:41 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'RegenStam' of ... to '0'
+4/25/2010 5:44:47 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'RegenMana' of ... to '2'
+4/25/2010 5:48:39 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 5:48:58 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Luck' of ... to '0'
+4/25/2010 5:49:14 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'RegenMana' of ... to '2'
+4/25/2010 5:49:20 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'BonusHits' of ... to '0'
+4/25/2010 5:49:49 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'RegenStam' of ... to '0'
+4/25/2010 5:50:26 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 5:50:34 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 5:50:46 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'BonusHits' of ... to '0'
+4/25/2010 5:50:53 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'RegenHits' of ... to '0'
+4/25/2010 5:50:57 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'RegenMana' of ... to '2'
+4/25/2010 5:51:23 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add ring'
+4/25/2010 5:51:29 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (2221, 1205, 0) in Felucca: "GoldRing"
+4/25/2010 5:51:29 PM: 200.163.15.120: Serials: 0x40001B34; 
+4/25/2010 5:51:38 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 5:52:09 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'CastRecovery' of ... to '3'
+4/25/2010 5:52:16 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'DefendChance' of ... to '5'
+4/25/2010 5:52:35 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'SpellDamage' of ... to '5'
+4/25/2010 5:53:49 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'BonusInt' of ... to '4'
+4/25/2010 5:54:22 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 5:54:24 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0x3 "Hand of God" ('Tureco') to (4592, 3573, 75)
+4/25/2010 5:54:28 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 5:54:31 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 5:54:33 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0x10 "Mago" ('teste2') to (4599, 3574, 76)
+4/25/2010 5:57:33 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'M Remove'
+4/25/2010 5:57:35 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x4000305A (Bottle)
+4/25/2010 5:58:40 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'set skillscap 7200'
+4/25/2010 5:58:42 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'skillscap' of 0x10 "Mago" ('teste2') to '7200'
+4/25/2010 5:59:10 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'M Remove'
+4/25/2010 5:59:12 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40002838 (Arrow)
+4/25/2010 5:59:13 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x4000325C (Bolt)
+4/25/2010 6:00:05 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'M Remove'
+4/25/2010 6:00:07 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'M Remove'
+4/25/2010 6:00:08 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40001B88 (Bolt)
+4/25/2010 6:00:09 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40001B87 (Arrow)
+4/25/2010 6:00:16 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'set skillscap 7200'
+4/25/2010 6:00:17 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'skillscap' of 0x10 "Mago" ('teste2') to '7200'
+4/25/2010 6:00:39 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 6:00:59 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'set hue 1953'
+4/25/2010 6:01:00 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'hue' of 0x400000FC (Stormgrip) to '1953'
+4/25/2010 6:01:41 PM: 201.94.163.101: Player 0x10 "Mago" ('teste2') used command 'ressme '
+4/25/2010 6:03:17 PM: 201.94.163.101: Player 0x10 "Mago" ('teste2') used command 'ressme '
+4/25/2010 6:04:37 PM: 201.94.163.101: Player 0x10 "Mago" ('teste2') used command 'ressme '
+4/25/2010 6:07:36 PM: 201.94.163.101: Player 0x10 "Mago" ('teste2') used command 'ressme '
+4/25/2010 6:09:23 PM: 201.94.163.101: Player 0x10 "Mago" ('teste2') used command 'ressme '
+4/25/2010 6:12:00 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 6:12:02 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0x40001A85 (MetalShield) to (4592, 3566, 75)
+4/25/2010 6:12:04 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 6:12:07 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0x40001AA7 (HammerPick) to (4591, 3566, 75)
+4/25/2010 6:12:08 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 6:12:10 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0x40001B1A (LeatherArms) to (4592, 3565, 75)
+4/25/2010 6:12:14 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 6:23:55 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'dupe '
+4/25/2010 6:24:11 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'dupe '
+4/25/2010 6:24:26 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'dupe '
+4/25/2010 6:24:33 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'dupe '
+4/25/2010 6:24:33 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') duping 0x40002F88 (BrilliantAmberBracelet) (inBag=False; amount=1)
+4/25/2010 6:24:34 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') duped 0x40002F88 (BrilliantAmberBracelet) creating 0x40001D2E (BrilliantAmberBracelet)
+4/25/2010 6:24:51 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 6:24:54 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0x40001D2E (BrilliantAmberBracelet) to (4592, 3574, 75)
+4/25/2010 6:30:55 PM: 201.94.163.101: Player 0x12 "Otro" ('teste2') used command 'ressme '
+4/25/2010 6:33:27 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'admin '
+4/25/2010 6:34:47 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 6:35:03 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'dupe '
+4/25/2010 6:35:06 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') duping 0x40001AA7 (HammerPick) (inBag=False; amount=1)
+4/25/2010 6:35:06 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') duped 0x40001AA7 (HammerPick) creating 0x40001EBB (HammerPick)
+4/25/2010 6:35:13 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 6:35:16 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0x1 "Owner Mark [Staff]" ('admin') to (4594, 3572, 75)
+4/25/2010 6:35:24 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 6:35:35 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'AttackChance' of ... to '0'
+4/25/2010 6:35:40 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'DefendChance' of ... to '0'
+4/25/2010 6:35:58 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'WeaponSpeed' of ... to '30'
+4/25/2010 6:36:53 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'HitHarm' of ... to '0'
+4/25/2010 6:37:08 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'HitLightning' of ... to '25'
+4/25/2010 6:38:00 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'AttackChance' of ... to '5'
+4/25/2010 6:38:20 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'SpellChanneling' of ... to '0'
+4/25/2010 6:41:47 PM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 6:43:38 PM: 201.94.163.101: Player 0x12 "Otro" ('teste2') used command 'ressme '
+4/25/2010 6:44:29 PM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 6:45:45 PM: 201.94.163.101: Player 0x12 "Otro" ('teste2') used command 'ressme '
+4/25/2010 6:49:57 PM: 201.94.163.101: Player 0x12 "Otro" ('teste2') used command 'ressme '
+4/25/2010 6:51:39 PM: 201.94.163.101: Player 0x12 "Otro" ('teste2') used command 'ressme '
+4/25/2010 6:52:34 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 6:52:36 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0x400020BE (Corpse) to (4597, 3576, 75)
+4/25/2010 6:53:28 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add legendary'
+4/25/2010 6:53:48 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4591, 3565, 75) in Felucca: "DetectiveBoots"
+4/25/2010 6:53:48 PM: 200.163.15.120: Serials: 0x400020DC; 
+4/25/2010 6:53:50 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4592, 3566, 75) in Felucca: "DetectiveBoots"
+4/25/2010 6:53:50 PM: 200.163.15.120: Serials: 0x400020DD; 
+4/25/2010 6:53:55 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 6:53:57 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0x400020DD (DetectiveBoots) to (4595, 3571, 75)
+4/25/2010 6:54:11 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'M Remove'
+4/25/2010 6:54:13 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40001CAC (Circlet)
+4/25/2010 6:54:14 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x400020DC (DetectiveBoots)
+4/25/2010 6:54:15 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40001CEB (InquisitorsResolution)
+4/25/2010 6:54:16 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40001F66 (Corpse)
+4/25/2010 6:54:19 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'M Remove'
+4/25/2010 6:54:21 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40001F6F (Bottle)
+4/25/2010 6:54:21 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x400026C7 (GreaterHealPotion)
+4/25/2010 6:54:22 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40002F8A (GreaterCurePotion)
+4/25/2010 6:54:23 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40001B74 (Bottle)
+4/25/2010 6:54:29 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'M Remove'
+4/25/2010 6:54:39 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'set skillscap 7200'
+4/25/2010 6:54:41 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'skillscap' of 0x12 "Otro" ('teste2') to '7200'
+4/25/2010 6:54:44 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'M Remove'
+4/25/2010 6:54:46 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40001D8C (Bottle)
+4/25/2010 6:54:47 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x400020BE (Corpse)
+4/25/2010 6:54:52 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40001F86 (Corpse)
+4/25/2010 6:54:53 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40001F3B (Corpse)
+4/25/2010 6:55:05 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'M Remove'
+4/25/2010 6:55:07 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x4000205D (Corpse)
+4/25/2010 6:55:08 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40001FCE (Corpse)
+4/25/2010 6:55:11 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40001CA0 (LeafGloves)
+4/25/2010 6:55:12 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40001CF7 (OrnamentOfTheMagician)
+4/25/2010 6:55:14 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40001EAF (SmithBag)
+4/25/2010 6:55:18 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40001EA3 (AlchemyBag)
+4/25/2010 6:57:26 PM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 7:00:42 PM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 7:29:24 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 7:29:26 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 7:29:29 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 7:29:49 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 7:31:34 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 7:32:07 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'AttackChance' of ... to '15'
+4/25/2010 7:32:10 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'AttackChance' of ... to '10'
+4/25/2010 7:32:15 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'AttackChance' of ... to '15'
+4/25/2010 8:28:45 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add tube'
+4/25/2010 8:29:03 PM: 201.94.163.101: Player 0x13 "Otro" ('teste1') used command 'emote '
+4/25/2010 8:29:21 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4587, 3579, 75) in Felucca: "DyeTub"
+4/25/2010 8:29:21 PM: 200.163.15.120: Serials: 0x40002724; 
+4/25/2010 8:29:26 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 8:29:54 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x40002724 (DyeTub) to '2'
+4/25/2010 8:30:20 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'DyedHue' of 0x40002724 (DyeTub) to '3000'
+4/25/2010 8:30:33 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+4/25/2010 8:30:34 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40002724 (DyeTub)
+4/25/2010 8:32:44 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 8:32:52 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1965'
+4/25/2010 8:32:53 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x40000059 (ArcaneShield) to '1965'
+4/25/2010 8:33:27 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1965'
+4/25/2010 8:33:28 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400026E1 (HeaterShield) to '1965'
+4/25/2010 8:33:32 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1965'
+4/25/2010 8:33:38 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400026F6 (PlateLegs) to '1965'
+4/25/2010 8:33:43 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1965'
+4/25/2010 8:33:45 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400026C3 (Kryss) to '1965'
+4/25/2010 8:33:47 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1965'
+4/25/2010 8:33:48 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x40002263 (RuneBeetleCarapace) to '1965'
+4/25/2010 8:33:49 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1965'
+4/25/2010 8:33:50 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x4000224E (QuiverOfInfinity) to '1965'
+4/25/2010 8:33:51 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1965'
+4/25/2010 8:33:52 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400026EF (PlateArms) to '1965'
+4/25/2010 8:33:54 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1965'
+4/25/2010 8:33:54 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x40002237 (HelmOfInsight) to '1965'
+4/25/2010 8:33:55 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1965'
+4/25/2010 8:33:56 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x40002240 (JackalsCollar) to '1965'
+4/25/2010 8:33:58 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1965'
+4/25/2010 8:33:58 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x40002249 (LieutenantOfTheBritannianRoyalGuard) to '1965'
+4/25/2010 8:34:00 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1965'
+4/25/2010 8:34:01 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x40002256 (CrimsonCincture) to '1965'
+4/25/2010 8:34:03 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1965'
+4/25/2010 8:34:04 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x40002251 (ConjurersTrinket) to '1965'
+4/25/2010 8:34:26 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1965'
+4/25/2010 8:34:27 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x4000225E (Stormgrip) to '1965'
+4/25/2010 8:34:57 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set H[Set Hue 1947'
+4/25/2010 8:35:04 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1947'
+4/25/2010 8:35:06 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400000EA (ConjurersGarb) to '1947'
+4/25/2010 8:35:09 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1947'
+4/25/2010 8:35:13 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400000ED (MaceAndShieldGlasses) to '1947'
+4/25/2010 8:35:16 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1947'
+4/25/2010 8:35:18 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400000EC (ConjurersTrinket) to '1947'
+4/25/2010 8:35:24 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1947'
+4/25/2010 8:35:25 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400026D0 (HammerPick) to '1947'
+4/25/2010 9:04:22 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add bracelet'
+4/25/2010 9:04:27 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (2219, 1204, 0) in Felucca: "GoldBracelet"
+4/25/2010 9:04:27 PM: 200.163.15.120: Serials: 0x4000279B; 
+4/25/2010 9:04:36 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 9:04:39 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0x13 "Otro" ('teste1') to (2225, 1199, 35)
+4/25/2010 9:04:51 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 9:04:54 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0x13 "Otro" ('teste1') to (2220, 1200, 23)
+4/25/2010 9:05:05 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 10:10:19 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 10:10:23 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0x400025D3 (BoneHarvester) to (4592, 3575, 75)
+4/25/2010 10:10:26 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 10:10:31 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0x40001C9B (HammerPick) to (4593, 3574, 75)
+4/25/2010 10:10:33 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 10:10:36 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0x4000326A (WarFork) to (4592, 3573, 75)
+4/25/2010 10:12:05 PM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 10:13:37 PM: 127.0.0.1: Player 0x9 "Markola Pop" ('mark') used command 'ressme '
+4/25/2010 10:23:53 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1943'
+4/25/2010 10:23:54 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400027E8 (HeaterShield) to '1943'
+4/25/2010 10:23:58 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1942'
+4/25/2010 10:23:59 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400027E8 (HeaterShield) to '1942'
+4/25/2010 10:24:04 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1942'
+4/25/2010 10:24:08 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400025D3 (BoneHarvester) to '1942'
+4/25/2010 10:24:10 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1942'
+4/25/2010 10:24:12 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400000E9 (QuiverOfInfinity) to '1942'
+4/25/2010 10:24:21 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1941'
+4/25/2010 10:24:22 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400020DD (DetectiveBoots) to '1941'
+4/25/2010 10:24:26 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1941'
+4/25/2010 10:24:28 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400000EA (ConjurersGarb) to '1941'
+4/25/2010 10:24:31 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1941'
+4/25/2010 10:24:32 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400000F0 (CrimsonCincture) to '1941'
+4/25/2010 10:24:40 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1947'
+4/25/2010 10:24:42 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400020DD (DetectiveBoots) to '1947'
+4/25/2010 10:24:51 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1947'
+4/25/2010 10:24:52 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400000EA (ConjurersGarb) to '1947'
+4/25/2010 10:25:01 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1953'
+4/25/2010 10:25:03 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400020DD (DetectiveBoots) to '1953'
+4/25/2010 10:25:07 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1953'
+4/25/2010 10:25:09 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400027E8 (HeaterShield) to '1953'
+4/25/2010 10:25:16 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1952'
+4/25/2010 10:25:17 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400000F0 (CrimsonCincture) to '1952'
+4/25/2010 10:25:26 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1947'
+4/25/2010 10:25:36 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1939'
+4/25/2010 10:25:37 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400020DD (DetectiveBoots) to '1939'
+4/25/2010 10:25:46 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1936'
+4/25/2010 10:25:47 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400020DD (DetectiveBoots) to '1936'
+4/25/2010 10:25:54 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1941'
+4/25/2010 10:25:55 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400000E9 (QuiverOfInfinity) to '1941'
+4/25/2010 10:26:02 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1943'
+4/25/2010 10:26:03 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400020DD (DetectiveBoots) to '1943'
+4/25/2010 10:26:32 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 2666'
+4/25/2010 10:26:36 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400000FC (Stormgrip) to '2666'
+4/25/2010 10:26:41 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 2666'
+4/25/2010 10:26:42 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400020DD (DetectiveBoots) to '2666'
+4/25/2010 10:26:50 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 2659'
+4/25/2010 10:26:52 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400000FC (Stormgrip) to '2659'
+4/25/2010 10:26:56 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 2658'
+4/25/2010 10:26:57 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x40000081 (Backpack) to '2658'
+4/25/2010 10:27:07 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 2660'
+4/25/2010 10:27:08 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400025D3 (BoneHarvester) to '2660'
+4/25/2010 10:27:19 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 2667'
+4/25/2010 10:27:22 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400000EC (ConjurersTrinket) to '2667'
+4/25/2010 10:27:36 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1965'
+4/25/2010 10:27:37 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400000EC (ConjurersTrinket) to '1965'
+4/25/2010 10:27:44 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1965'
+4/25/2010 10:27:45 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400000E5 (GladiatorsCollar) to '1965'
+4/25/2010 10:27:55 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1962'
+4/25/2010 10:27:57 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400000EC (ConjurersTrinket) to '1962'
+4/25/2010 10:28:15 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1932'
+4/25/2010 10:28:16 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400000EC (ConjurersTrinket) to '1932'
+4/25/2010 10:28:28 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1914'
+4/25/2010 10:28:29 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400000EC (ConjurersTrinket) to '1914'
+4/25/2010 10:28:55 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 2638'
+4/25/2010 10:28:56 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400000EC (ConjurersTrinket) to '2638'
+4/25/2010 10:29:11 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 2654'
+4/25/2010 10:29:13 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400000EA (ConjurersGarb) to '2654'
+4/25/2010 10:29:35 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 2658'
+4/25/2010 10:29:40 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400000FC (Stormgrip) to '2658'
+4/25/2010 10:29:45 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 2660'
+4/25/2010 10:29:46 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x40000081 (Backpack) to '2660'
+4/25/2010 10:29:52 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 2659'
+4/25/2010 10:29:53 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x40000081 (Backpack) to '2659'
+4/25/2010 10:30:15 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1947'
+4/25/2010 10:30:17 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400027E8 (HeaterShield) to '1947'
+4/25/2010 10:30:21 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1947'
+4/25/2010 10:30:22 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400000EC (ConjurersTrinket) to '1947'
+4/25/2010 10:30:37 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 1953'
+4/25/2010 10:30:38 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400027E8 (HeaterShield) to '1953'
+4/25/2010 10:31:05 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 2668'
+4/25/2010 10:31:07 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400000E5 (GladiatorsCollar) to '2668'
+4/25/2010 10:31:15 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 2670'
+4/25/2010 10:31:17 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400000E5 (GladiatorsCollar) to '2670'
+4/25/2010 10:31:25 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 2673'
+4/25/2010 10:31:26 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400000E5 (GladiatorsCollar) to '2673'
+4/25/2010 10:31:50 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Set Hue 2640'
+4/25/2010 10:31:51 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Hue' of 0x400000E5 (GladiatorsCollar) to '2640'
+4/25/2010 10:32:30 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+4/25/2010 10:32:42 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'WeaponDamage' of ... to '50'
+4/25/2010 10:33:44 PM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 10:36:34 PM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 10:37:37 PM: 127.0.0.1: Player 0x9 "Markola Pop" ('mark') used command 'ressme '
+4/25/2010 10:39:09 PM: 127.0.0.1: Player 0x9 "Markola Pop" ('mark') used command 'ressme '
+4/25/2010 10:41:25 PM: 127.0.0.1: Player 0x9 "Markola Pop" ('mark') used command 'ressme '
+4/25/2010 10:42:29 PM: 127.0.0.1: Player 0x9 "Markola Pop" ('mark') used command 'ressme '
+4/25/2010 10:42:29 PM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 10:42:32 PM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 10:42:34 PM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 10:42:35 PM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 10:42:36 PM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 10:42:36 PM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 10:42:37 PM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 10:42:37 PM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 10:42:37 PM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 10:42:38 PM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 10:42:38 PM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 10:42:38 PM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 10:42:38 PM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 10:42:39 PM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 10:42:39 PM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 10:42:39 PM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 10:42:44 PM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 10:42:45 PM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 10:42:46 PM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 10:42:46 PM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 10:42:50 PM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 10:42:51 PM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 10:42:54 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'admin '
+4/25/2010 10:42:58 PM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 10:44:36 PM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 10:45:40 PM: 127.0.0.1: Player 0x9 "Markola Pop" ('mark') used command 'ressme '
+4/25/2010 10:45:46 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'admin '
+4/25/2010 10:45:52 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Blessed' of 0x1 "Owner Mark [Staff]" ('admin') to 'True'
+4/25/2010 10:59:09 PM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 10:59:13 PM: 127.0.0.1: Player 0x9 "Markola Pop" ('mark') used command 'ressme '
+4/25/2010 10:59:16 PM: 127.0.0.1: Player 0x9 "Markola Pop" ('mark') used command 'ressme '
+4/25/2010 10:59:17 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'admin '
+4/25/2010 10:59:21 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') resurrecting 0x9 "Markola Pop" ('mark')
+4/25/2010 10:59:21 PM: 127.0.0.1: Player 0x9 "Markola Pop" ('mark') used command 'ressme '
+4/25/2010 11:02:13 PM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 11:03:23 PM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 11:11:05 PM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 11:14:45 PM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 11:16:55 PM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 11:17:40 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add crimson'
+4/25/2010 11:17:42 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2231, 1207, 0) in Felucca: "CrimsonCincture"
+4/25/2010 11:17:42 PM: 192.168.1.78: Serials: 0x40003027; 
+4/25/2010 11:18:05 PM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 11:18:45 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add drean'
+4/25/2010 11:18:55 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add drean'
+4/25/2010 11:19:10 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add kryss'
+4/25/2010 11:19:11 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') building at (2231, 1207, 0) in Felucca: "kryss"
+4/25/2010 11:19:11 PM: 192.168.1.78: Serials: 0x40003075; 
+4/25/2010 11:19:34 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'add '
+4/25/2010 11:20:15 PM: 127.0.0.1: Player 0x9 "Markola Pop" ('mark') used command 'ressme '
+4/25/2010 11:20:52 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'admin '
+4/25/2010 11:20:59 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Squelched' of 0x2 "TamireS" ('carlos') to 'True'
+4/25/2010 11:21:04 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') killing 0x2 "TamireS" ('carlos')
+4/25/2010 11:21:07 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') resurrecting 0x2 "TamireS" ('carlos')
+4/25/2010 11:21:13 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'kill '
+4/25/2010 11:21:14 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') killing 0x9 "Markola Pop" ('mark')
+4/25/2010 11:21:15 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'kill '
+4/25/2010 11:21:15 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') killing 0x3 "Hand of God" ('Tureco')
+4/25/2010 11:21:19 PM: 127.0.0.1: Player 0x9 "Markola Pop" ('mark') used command 'ressme '
+4/25/2010 11:21:21 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'admin '
+4/25/2010 11:21:26 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') resurrecting 0x3 "Hand of God" ('Tureco')
+4/25/2010 11:21:40 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') unhiding 0x1 "Owner Mark [Staff]" ('admin')
+4/25/2010 11:21:40 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Self Unhide'
+4/25/2010 11:21:44 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') hiding 0x1 "Owner Mark [Staff]" ('admin')
+4/25/2010 11:21:44 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'Self Hide'
+4/25/2010 11:21:48 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'move '
+4/25/2010 11:21:50 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') moving 0x1 "Owner Mark [Staff]" ('admin') to (4593, 3572, 75)
+4/25/2010 11:22:23 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'props '
+4/25/2010 11:22:32 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'DexBonus' of 0x400003DA (RuneBeetleCarapace) to '12'
+4/25/2010 11:22:44 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'FireBonus' of 0x400003DA (RuneBeetleCarapace) to '15'
+4/25/2010 11:23:58 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'SetSelfRepair' of 0x400003DA (RuneBeetleCarapace) to '10'
+4/25/2010 11:24:20 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'props '
+4/25/2010 11:24:49 PM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 11:24:51 PM: 127.0.0.1: Player 0x9 "Markola Pop" ('mark') used command 'ressme '
+4/25/2010 11:25:10 PM: 127.0.0.1: Player 0x9 "Markola Pop" ('mark') used command 'ressme '
+4/25/2010 11:25:11 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'admin '
+4/25/2010 11:25:16 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') resurrecting 0x9 "Markola Pop" ('mark')
+4/25/2010 11:25:16 PM: 127.0.0.1: Player 0x9 "Markola Pop" ('mark') used command 'ressme '
+4/25/2010 11:25:38 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'HitPoints' of 0x400003DA (RuneBeetleCarapace) to '255'
+4/25/2010 11:25:48 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'DurabilityBonus' of ... to '0'
+4/25/2010 11:25:51 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'LowerStatReq' of ... to '100'
+4/25/2010 11:25:57 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'SelfRepair' of ... to '5'
+4/25/2010 11:26:11 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'BonusDex' of ... to '12'
+4/25/2010 11:26:17 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'BonusHits' of ... to '20'
+4/25/2010 11:26:24 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'BonusMana' of ... to '25'
+4/25/2010 11:26:29 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'BonusStr' of ... to '20'
+4/25/2010 11:26:36 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'CastSpeed' of ... to '6'
+4/25/2010 11:26:39 PM: 127.0.0.1: Player 0x9 "Markola Pop" ('mark') used command 'ressme '
+4/25/2010 11:26:41 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'CastRecovery' of ... to '12'
+4/25/2010 11:26:46 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'DefendChance' of ... to '45'
+4/25/2010 11:26:51 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'EnhancePotions' of ... to '75'
+4/25/2010 11:26:58 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'LowerManaCost' of ... to '60'
+4/25/2010 11:27:03 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'LowerRegCost' of ... to '100'
+4/25/2010 11:27:11 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'ReflectPhysical' of ... to '100'
+4/25/2010 11:27:17 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'WeaponSpeed' of ... to '50'
+4/25/2010 11:27:21 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'WeaponDamage' of ... to '30'
+4/25/2010 11:27:28 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'RegenMana' of ... to '20'
+4/25/2010 11:27:35 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'RegenStam' of ... to '20'
+4/25/2010 11:27:39 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'SpellChanneling' of ... to '1'
+4/25/2010 11:27:46 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'Luck' of ... to '850'
+4/25/2010 11:28:02 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'props '
+4/25/2010 11:28:18 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'FireBonus' of 0x400003DA (RuneBeetleCarapace) to '50'
+4/25/2010 11:28:18 PM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 11:28:25 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'PhysicalBonus' of 0x400003DA (RuneBeetleCarapace) to '50'
+4/25/2010 11:28:33 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'PoisonBonus' of 0x400003DA (RuneBeetleCarapace) to '50'
+4/25/2010 11:28:45 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'SetColdBonus' of 0x400003DA (RuneBeetleCarapace) to '50'
+4/25/2010 11:28:51 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'SetEnergyBonus' of 0x400003DA (RuneBeetleCarapace) to '50'
+4/25/2010 11:28:57 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'SetFireBonus' of 0x400003DA (RuneBeetleCarapace) to '50'
+4/25/2010 11:29:19 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'props '
+4/25/2010 11:29:35 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'EnergyBonus' of 0x400003DA (RuneBeetleCarapace) to '50'
+4/25/2010 11:29:53 PM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 11:30:02 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'SetColdBonus' of 0x400003DA (RuneBeetleCarapace) to '80'
+4/25/2010 11:30:09 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'SetFireBonus' of 0x400003DA (RuneBeetleCarapace) to '80'
+4/25/2010 11:30:19 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'props '
+4/25/2010 11:30:23 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'props '
+4/25/2010 11:30:38 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'SetColdBonus' of 0x400003DA (RuneBeetleCarapace) to '80'
+4/25/2010 11:30:40 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'SetFireBonus' of 0x400003DA (RuneBeetleCarapace) to '80'
+4/25/2010 11:30:48 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'props '
+4/25/2010 11:30:55 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'ColdBonus' of 0x4000038A (Aegis) to '50'
+4/25/2010 11:31:01 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'props '
+4/25/2010 11:31:08 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'FireBonus' of 0x4000038A (Aegis) to '30'
+4/25/2010 11:31:22 PM: 127.0.0.1: Player 0x9 "Markola Pop" ('mark') used command 'ressme '
+4/25/2010 11:31:46 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'props '
+4/25/2010 11:31:52 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'DamageLevel' of 0x40003075 (Kryss) to 'Vanq'
+4/25/2010 11:32:07 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'AttackChance' of ... to '15'
+4/25/2010 11:32:24 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'WeaponSpeed' of ... to '30'
+4/25/2010 11:32:30 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') set property 'WeaponDamage' of ... to '50'
+4/25/2010 11:32:34 PM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 11:33:08 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'admin '
+4/25/2010 11:33:12 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'Squelched' of 0x2 "TamireS" ('carlos') to 'False'
+4/25/2010 11:34:05 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'kill '
+4/25/2010 11:34:07 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') killing 0x3 "Hand of God" ('Tureco')
+4/25/2010 11:34:10 PM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 11:36:46 PM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 11:38:04 PM: 200.163.15.120: Player 0x3 "Hand of God" ('Tureco') used command 'ressme '
+4/25/2010 11:39:36 PM: 127.0.0.1: Player 0x9 "Markola Pop" ('mark') used command 'ressme '
+4/25/2010 11:39:48 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'kill '
+4/25/2010 11:41:11 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'kill '
+4/25/2010 11:41:11 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') killing 0x3 "Hand of God" ('Tureco')
+4/25/2010 11:41:14 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'kill '
+4/25/2010 11:41:14 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') killing 0x9 "Markola Pop" ('mark')
+4/25/2010 11:41:16 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'admin '
+4/25/2010 11:41:18 PM: 127.0.0.1: Player 0x9 "Markola Pop" ('mark') used command 'ressme '
+4/25/2010 11:41:22 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') killing 0x2 "TamireS" ('carlos')
+4/25/2010 11:41:26 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'ressme '
+4/25/2010 11:41:29 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'ressme '
+4/25/2010 11:41:31 PM: 192.168.1.78: GameMaster 0x2 "TamireS" ('carlos') used command 'ressme '
+4/25/2010 11:41:42 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') resurrecting 0x3 "Hand of God" ('Tureco')
+4/25/2010 11:43:07 PM: 127.0.0.1: Player 0x9 "Markola Pop" ('mark') used command 'ressme '
+4/25/2010 11:43:32 PM: 200.163.15.120: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'set guarded falsed'
+4/25/2010 11:44:16 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'setguarded false'

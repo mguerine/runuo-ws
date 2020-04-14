@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/101/trunk/Scripts/Spells/Base
+END
+SpellInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/15/trunk/Scripts/Spells/Base/SpellInfo.cs
+END
+DisturbType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/15/trunk/Scripts/Spells/Base/DisturbType.cs
+END
+Spell.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/101/trunk/Scripts/Spells/Base/Spell.cs
+END
+SpellHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/93/trunk/Scripts/Spells/Base/SpellHelper.cs
+END
+SpellState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/15/trunk/Scripts/Spells/Base/SpellState.cs
+END
+SpellCircle.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/15/trunk/Scripts/Spells/Base/SpellCircle.cs
+END
+MagerySpell.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/76/trunk/Scripts/Spells/Base/MagerySpell.cs
+END
+SpecialMove.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/67/trunk/Scripts/Spells/Base/SpecialMove.cs
+END
+SpellRegistry.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/15/trunk/Scripts/Spells/Base/SpellRegistry.cs
+END

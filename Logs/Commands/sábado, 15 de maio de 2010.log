@@ -1,0 +1,53 @@
+##############################
+Log started on 15/05/2010 05:15:20
+
+##############################
+Log started on 15/05/2010 05:27:51
+
+15/05/2010 05:35:09: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add hatched'
+15/05/2010 05:37:07: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add zy'
+15/05/2010 05:37:15: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4589, 3574, 75) in Felucca: "ZyronicClaw"
+15/05/2010 05:37:15: 127.0.0.1: Serials: 0x40001957; 
+15/05/2010 05:45:19: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'mortal '
+15/05/2010 05:45:22: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'mortal '
+15/05/2010 05:45:22: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'blessed' of 0x1 "Owner Mark [Staff]" ('admin') to 'False'
+##############################
+Log started on 15/05/2010 11:12:44
+
+15/05/2010 11:19:22: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add ring'
+15/05/2010 11:19:39: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4588, 3574, 75) in Felucca: "StaffRing"
+15/05/2010 11:19:39: 127.0.0.1: Serials: 0x4000197F; 
+15/05/2010 11:19:54: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+15/05/2010 11:19:55: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x4000197F (StaffRing)
+15/05/2010 11:19:58: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add ring'
+15/05/2010 11:20:12: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4588, 3574, 75) in Felucca: "SilverRing"
+15/05/2010 11:20:12: 127.0.0.1: Serials: 0x40001981; 
+15/05/2010 11:20:23: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+15/05/2010 11:20:36: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'CastSpeed' of ... to '1'
+15/05/2010 11:20:40: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'CastRecovery' of ... to '1'
+15/05/2010 11:20:58: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'AttackChance' of ... to '15'
+15/05/2010 11:40:15: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'set weaponspeed 30'
+15/05/2010 11:40:22: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'set weaponspeed 30'
+15/05/2010 11:40:26: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+15/05/2010 11:40:45: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'WeaponSpeed' of ... to '30'
+15/05/2010 11:41:06: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'HitLowerDefend' of ... to '0'
+15/05/2010 11:41:17: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+15/05/2010 11:41:30: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'UseBestSkill' of ... to '0'
+15/05/2010 11:42:17: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add bracelet'
+15/05/2010 11:42:21: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4588, 3576, 75) in Felucca: "GoldBracelet"
+15/05/2010 11:42:21: 127.0.0.1: Serials: 0x4000199C; 
+15/05/2010 11:42:29: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+15/05/2010 11:42:39: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'AttackChance' of ... to '11'
+15/05/2010 11:42:44: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'CastSpeed' of ... to '1'
+15/05/2010 11:42:47: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'CastRecovery' of ... to '2'
+15/05/2010 11:42:54: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'DefendChance' of ... to '12'
+15/05/2010 11:57:43: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add mace'
+15/05/2010 11:57:45: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4589, 3575, 75) in Felucca: "mace"
+15/05/2010 11:57:45: 127.0.0.1: Serials: 0x40001AE1; 
+15/05/2010 11:57:56: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+15/05/2010 11:58:13: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'WeaponDamage' of ... to '40'
+15/05/2010 11:58:18: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'WeaponSpeed' of ... to '30'
+15/05/2010 11:58:41: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'HitLeechMana' of ... to '40'
+##############################
+Log started on 15/05/2010 20:58:37
+

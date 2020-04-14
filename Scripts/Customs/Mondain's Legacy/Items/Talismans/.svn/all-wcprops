@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/97/trunk/Scripts/Customs/Mondain's%20Legacy/Items/Talismans
+END
+TalismanAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/89/trunk/Scripts/Customs/Mondain's%20Legacy/Items/Talismans/TalismanAttribute.cs
+END
+BaseTalisman.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/91/trunk/Scripts/Customs/Mondain's%20Legacy/Items/Talismans/BaseTalisman.cs
+END
+TalismanSlayer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/97/trunk/Scripts/Customs/Mondain's%20Legacy/Items/Talismans/TalismanSlayer.cs
+END
+RandomTalisman.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/91/trunk/Scripts/Customs/Mondain's%20Legacy/Items/Talismans/RandomTalisman.cs
+END
+TalismanSummons.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/89/trunk/Scripts/Customs/Mondain's%20Legacy/Items/Talismans/TalismanSummons.cs
+END

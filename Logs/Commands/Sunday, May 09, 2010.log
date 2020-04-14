@@ -1,0 +1,16 @@
+##############################
+Log started on 5/9/2010 10:53:14 AM
+
+##############################
+Log started on 5/9/2010 12:23:26 PM
+
+5/9/2010 12:24:01 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add bokuto'
+5/9/2010 12:24:03 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (4587, 3584, 75) in Felucca: "bokuto"
+5/9/2010 12:24:03 PM: 127.0.0.1: Serials: 0x40000139; 
+5/9/2010 12:24:31 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+5/9/2010 12:24:54 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'WeaponSpeed' of ... to '30'
+5/9/2010 12:24:59 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'WeaponDamage' of ... to '40'
+5/9/2010 12:26:32 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'ressme '
+5/9/2010 12:28:34 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'dupe '
+5/9/2010 12:28:36 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') duping 0x400007D4 (LeatherArms) (inBag=False; amount=1)
+5/9/2010 12:28:36 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') duped 0x400007D4 (LeatherArms) creating 0x40001980 (LeatherArms)

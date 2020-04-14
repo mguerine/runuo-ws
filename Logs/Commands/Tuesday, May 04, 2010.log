@@ -1,0 +1,158 @@
+##############################
+Log started on 5/4/2010 11:56:07 AM
+
+5/4/2010 11:57:22 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+5/4/2010 11:57:25 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x4000002F (BarbedLeather)
+5/4/2010 11:57:31 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+5/4/2010 11:57:34 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x4000002D (RunicSewingKit)
+5/4/2010 11:57:34 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+5/4/2010 11:57:36 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x400018E0 (BronzeShield)
+5/4/2010 11:57:36 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+5/4/2010 11:57:38 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x400018E2 (BronzeShield)
+5/4/2010 11:57:38 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+5/4/2010 11:57:44 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40000059 (ArcaneShield)
+5/4/2010 11:57:44 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+5/4/2010 11:57:48 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x400018DF (Buckler)
+5/4/2010 11:57:49 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+5/4/2010 11:57:50 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x400018E7 (LeatherArms)
+5/4/2010 11:57:51 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+5/4/2010 11:57:53 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40000042 (BookOfChivalry)
+5/4/2010 11:57:53 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+5/4/2010 11:57:55 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x400018E6 (LeatherCap)
+5/4/2010 11:57:55 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+5/4/2010 11:58:02 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40001E43 (Bottle)
+5/4/2010 11:58:17 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+5/4/2010 11:58:20 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40000057 (FukiyaDarts)
+5/4/2010 11:58:21 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+5/4/2010 11:58:26 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x400018E8 (LeatherLegs)
+5/4/2010 11:58:27 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+5/4/2010 11:58:28 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x4000003E (IronIngot)
+5/4/2010 11:58:29 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+5/4/2010 11:58:41 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40001880 (Crossbow)
+5/4/2010 11:58:42 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+5/4/2010 11:58:45 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x400018E4 (PlateGorget)
+5/4/2010 11:58:46 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+5/4/2010 11:58:49 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x4000003D (ValoriteIngot)
+5/4/2010 11:58:50 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+5/4/2010 11:58:53 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40000065 (AxeOfTheHeavens)
+5/4/2010 11:58:54 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+5/4/2010 11:59:01 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40000084 (StormBreak)
+5/4/2010 11:59:02 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+5/4/2010 11:59:06 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40000804 (IllusionTwist)
+5/4/2010 11:59:07 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+5/4/2010 11:59:09 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40001E3E (DeadlyPoisonPotion)
+5/4/2010 11:59:10 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+5/4/2010 11:59:13 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x400007F9 (HolyAvenger)
+5/4/2010 11:59:13 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+5/4/2010 11:59:15 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40001958 (GlovesOfThePugilist)
+5/4/2010 11:59:16 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+5/4/2010 11:59:17 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x400018E1 (Buckler)
+5/4/2010 11:59:21 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+5/4/2010 11:59:23 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x400018E3 (ChainCoif)
+5/4/2010 11:59:25 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+5/4/2010 11:59:27 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40000806 (DreamLine)
+5/4/2010 11:59:28 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+5/4/2010 11:59:29 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40002CF2 (FeyLeggings)
+5/4/2010 11:59:30 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+5/4/2010 11:59:34 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x400007FE (BladeOfTheRighteous)
+5/4/2010 11:59:35 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+5/4/2010 11:59:37 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x4000009C (Arrow)
+5/4/2010 11:59:38 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+5/4/2010 11:59:50 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add dragon'
+5/4/2010 11:59:51 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (2228, 1168, 0) in Felucca: "dragon"
+5/4/2010 11:59:52 AM: 127.0.0.1: Serials: 0xD; 
+5/4/2010 11:59:53 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+5/4/2010 11:59:55 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x4000199C (Corpse)
+5/4/2010 11:59:57 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+5/4/2010 11:59:59 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40001AA4 (Corpse)
+5/4/2010 11:59:59 AM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+5/4/2010 12:00:01 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40001A06 (Corpse)
+5/4/2010 12:00:04 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'save '
+5/4/2010 12:00:05 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'mortal '
+5/4/2010 12:00:06 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'blessed' of 0x1 "Owner Mark [Staff]" ('admin') to 'False'
+5/4/2010 12:00:11 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'set isparagon true'
+5/4/2010 12:00:12 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'isparagon' of 0xD "a dragon" (no account) to 'True'
+5/4/2010 12:00:49 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add pug'
+5/4/2010 12:00:58 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (2225, 1161, 0) in Felucca: "GlovesOfThePugilist"
+5/4/2010 12:00:58 PM: 127.0.0.1: Serials: 0x40000804; 
+5/4/2010 12:02:48 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+5/4/2010 12:02:49 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0xD "a dragon" (no account)
+5/4/2010 12:03:19 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add dragon'
+5/4/2010 12:03:20 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (2226, 1177, 0) in Felucca: "dragon"
+5/4/2010 12:03:20 PM: 127.0.0.1: Serials: 0x11; 
+5/4/2010 12:03:27 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'set isparagon true'
+5/4/2010 12:03:29 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'isparagon' of 0x11 "a dragon" (no account) to 'True'
+5/4/2010 12:03:33 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+5/4/2010 12:03:35 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x14 "a dragon" (no account)
+5/4/2010 12:04:00 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'setallskills 0'
+5/4/2010 12:04:01 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'EverySkill.Base' of 0x1 "Owner Mark [Staff]" ('admin') to '0'
+5/4/2010 12:04:08 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'set bushido 120'
+5/4/2010 12:05:56 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'set skillscap 7200'
+5/4/2010 12:05:57 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'skillscap' of 0x1 "Owner Mark [Staff]" ('admin') to '7200'
+5/4/2010 12:06:32 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add heart'
+5/4/2010 12:06:36 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (2209, 1191, 0) in Felucca: "HeartOfTheLion"
+5/4/2010 12:06:36 PM: 127.0.0.1: Serials: 0x40001B1E; 
+5/4/2010 12:07:12 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add fey'
+5/4/2010 12:07:15 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (2208, 1192, 0) in Felucca: "FeyLeggings"
+5/4/2010 12:07:15 PM: 127.0.0.1: Serials: 0x40001B1F; 
+5/4/2010 12:07:53 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add mace'
+5/4/2010 12:07:57 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add maceabd'
+5/4/2010 12:08:02 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add maceand'
+5/4/2010 12:08:07 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (2219, 1181, 0) in Felucca: "MaceAndShieldGlasses"
+5/4/2010 12:08:07 PM: 127.0.0.1: Serials: 0x40001B24; 
+5/4/2010 12:08:18 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add storm'
+5/4/2010 12:08:21 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (2219, 1181, 0) in Felucca: "Stormgrip"
+5/4/2010 12:08:21 PM: 127.0.0.1: Serials: 0x40001B25; 
+5/4/2010 12:08:40 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add bane'
+5/4/2010 12:08:42 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (2219, 1181, 0) in Felucca: "LeggingsOfBane"
+5/4/2010 12:08:42 PM: 127.0.0.1: Serials: 0x40001B26; 
+5/4/2010 12:09:13 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add liu'
+5/4/2010 12:09:22 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (2223, 1184, 0) in Felucca: "AndreasVesalius"
+5/4/2010 12:09:22 PM: 127.0.0.1: Serials: 0x14; 
+5/4/2010 12:09:33 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (2224, 1185, 0) in Felucca: "LieutenantOfTheBritannianRoyalGuard"
+5/4/2010 12:09:33 PM: 127.0.0.1: Serials: 0x40001B82; 
+5/4/2010 12:09:46 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (2223, 1185, 0) in Felucca: "ConjurersGarb"
+5/4/2010 12:09:46 PM: 127.0.0.1: Serials: 0x40001B83; 
+5/4/2010 12:10:17 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+5/4/2010 12:10:20 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x4000007A (Cloak)
+5/4/2010 12:10:24 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+5/4/2010 12:10:25 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40000876 (AdminRobe)
+5/4/2010 12:11:15 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+5/4/2010 12:11:16 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x14 "Andreas Vesalius" (no account)
+5/4/2010 12:14:05 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add staff'
+5/4/2010 12:18:09 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'props '
+5/4/2010 12:20:01 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'save '
+##############################
+Log started on 5/4/2010 12:25:05 PM
+
+5/4/2010 12:25:57 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add staff'
+5/4/2010 12:26:02 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (2220, 1203, 0) in Felucca: "StaffOfLaw"
+5/4/2010 12:26:02 PM: 127.0.0.1: Serials: 0x4000002D; 
+5/4/2010 12:27:24 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'set skillscap 7200'
+5/4/2010 12:27:25 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'skillscap' of 0x1 "Owner Mark [Staff]" ('admin') to '7200'
+5/4/2010 12:27:30 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add dragon'
+5/4/2010 12:27:32 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (2218, 1206, 0) in Felucca: "dragon"
+5/4/2010 12:27:32 PM: 127.0.0.1: Serials: 0xD; 
+5/4/2010 12:27:37 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'set isparagon true'
+5/4/2010 12:27:38 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') set property 'isparagon' of 0xD "a dragon" (no account) to 'True'
+5/4/2010 12:29:15 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add trink'
+5/4/2010 12:29:20 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add trink'
+5/4/2010 12:29:24 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add trink'
+5/4/2010 12:29:32 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add trink'
+5/4/2010 12:29:34 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (2228, 1187, 0) in Felucca: "ConjurersTrinket"
+5/4/2010 12:29:34 PM: 127.0.0.1: Serials: 0x40001A02; 
+5/4/2010 12:29:58 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+5/4/2010 12:30:01 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x4000005D (OrnamentOfTheMagician)
+5/4/2010 12:30:07 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'add brac'
+5/4/2010 12:30:11 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (2227, 1187, 0) in Felucca: "BraceletOfResilience"
+5/4/2010 12:30:11 PM: 127.0.0.1: Serials: 0x40001A03; 
+5/4/2010 12:30:24 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (2227, 1187, 0) in Felucca: "BrilliantAmberBracelet"
+5/4/2010 12:30:24 PM: 127.0.0.1: Serials: 0x40001A04; 
+5/4/2010 12:30:35 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') building at (2226, 1187, 0) in Felucca: "ResilientBracer"
+5/4/2010 12:30:35 PM: 127.0.0.1: Serials: 0x40001A05; 
+5/4/2010 12:30:43 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+5/4/2010 12:30:45 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40001A03 (BraceletOfResilience)
+5/4/2010 12:30:45 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+5/4/2010 12:30:47 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40001A04 (BrilliantAmberBracelet)
+5/4/2010 12:32:11 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') used command 'delete '
+5/4/2010 12:32:13 PM: 127.0.0.1: Owner 0x1 "Owner Mark [Staff]" ('admin') deleting 0x40001ADF (Corpse)

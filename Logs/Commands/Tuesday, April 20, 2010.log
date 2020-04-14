@@ -1,0 +1,26 @@
+##############################
+Log started on 4/20/2010 2:36:11 PM
+
+4/20/2010 2:38:35 PM: 127.0.0.1: Owner 0x1 "Markola" ('admin') used command 'admin '
+4/20/2010 2:38:57 PM: 127.0.0.1: Owner 0x1 "Markola" ('admin') used command 'teleport '
+4/20/2010 2:39:00 PM: 127.0.0.1: Owner 0x1 "Markola" ('admin') used command 'M Tele'
+4/20/2010 2:39:51 PM: 127.0.0.1: Owner 0x1 "Markola" ('admin') used command 'add banker'
+4/20/2010 2:39:56 PM: 127.0.0.1: Owner 0x1 "Markola" ('admin') building at (5432, 1119, 0) in Felucca: "banker"
+4/20/2010 2:39:56 PM: 127.0.0.1: Serials: 0x3; 
+4/20/2010 2:40:23 PM: 127.0.0.1: Owner 0x1 "Markola" ('admin') used command 'admin '
+4/20/2010 2:40:39 PM: 127.0.0.1: Owner 0x1 "Markola" ('admin') deleting account mark
+4/20/2010 2:40:51 PM: 127.0.0.1: Owner 0x1 "Markola" ('admin') used command 'go cove'
+4/20/2010 2:40:54 PM: 127.0.0.1: Owner 0x1 "Markola" ('admin') used command 'where '
+4/20/2010 2:40:54 PM: 127.0.0.1: Owner 0x1 "Markola" ('admin') used command 'M Tele'
+4/20/2010 2:41:05 PM: 127.0.0.1: Owner 0x1 "Markola" ('admin') used command 'get location'
+##############################
+Log started on 4/20/2010 2:50:42 PM
+
+4/20/2010 2:52:12 PM: 127.0.0.1: Owner 0x1 "Markola" ('admin') used command 'get location'
+4/20/2010 2:52:40 PM: 127.0.0.1: Owner 0x1 "Markola" ('admin') used command 'add banker'
+4/20/2010 2:52:41 PM: 127.0.0.1: Owner 0x1 "Markola" ('admin') building at (2226, 1198, 0) in Felucca: "banker"
+4/20/2010 2:52:41 PM: 127.0.0.1: Serials: 0x2; 
+4/20/2010 2:52:46 PM: 127.0.0.1: Owner 0x1 "Markola" ('admin') used command 'save '
+##############################
+Log started on 4/20/2010 2:54:58 PM
+
